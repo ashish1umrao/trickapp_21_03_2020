@@ -1,0 +1,58 @@
+Sun Oct 06 2019 07.34 AM >> APP - teacher - sethomework >> []
+
+Sun Oct 06 2019 10.20 AM >> APP - user - checkbranchcode >> {"branchCode":"aminu umar"}
+
+Sun Oct 06 2019 10.20 AM >> APP - user - checkbranchcode >> {"branchCode":"aminu umar"}
+
+Sun Oct 06 2019 10.20 AM >> APP - user - checkbranchcode >> {"branchCode":"aminu umar"}
+
+Sun Oct 06 2019 10.20 AM >> APP - user - checkbranchcode >> {"branchCode":"aminu umar"}
+
+Sun Oct 06 2019 01.37 PM >> APP - user - checkbranchcode >> {"branchCode":"Ridoy"}
+
+Sun Oct 06 2019 01.37 PM >> APP - user - checkbranchcode >> {"branchCode":"Ridoy"}
+
+Sun Oct 06 2019 01.37 PM >> APP - user - checkbranchcode >> {"branchCode":"Ridoyvuzvnsndbdvfdkdhdnu"}
+
+Sun Oct 06 2019 01.38 PM >> APP - user - checkbranchcode >> {"branchCode":"Ridoyvuzvnsndbdvfdkdhdnu"}
+
+Sun Oct 06 2019 02.37 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps4872"}
+
+Sun Oct 06 2019 04.57 PM >> APP - user - checkbranchcode >> {"branchCode":"GNPS01"}
+
+Sun Oct 06 2019 04.57 PM >> APP - user - getlogintype >> []
+
+Sun Oct 06 2019 04.58 PM >> APP - user - userauthenticateOnline >> {"branchCode":"GNPS01","userType":"Parent","userContact":"7205947905","userPassword":"7205947905","deviceId":"28554b98877959b9","deviceType":"Android","token_no":"dhmA53UNDec:APA91bH0eB6yb2OVtIkYvabNcMU8T45OgvECf1SofCZtEc47UuDzWZhugMiWma1xx96OzrWrokkE4OZwxKl_Cz_MBsLqmLykkCRyZUyMwA8ldK3ANBi4LSbJUnFqjjoRx9Fmz__tdF0i"}
+
+Sun Oct 06 2019 04.58 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.58 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.58 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 04.59 PM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Sun Oct 06 2019 05.41 PM >> APP - teacher - setassignment >> []
+

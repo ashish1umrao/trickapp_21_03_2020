@@ -1,0 +1,142 @@
+Sun Sep 29 2019 12.31 AM >> APP - teacher - sethomework >> []
+
+Sun Sep 29 2019 04.42 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sun Sep 29 2019 04.42 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8c4b4a69fd5"}
+
+Sun Sep 29 2019 04.42 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c4b4a69fd5"}
+
+Sun Sep 29 2019 04.42 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Parent","userId":"5d8c4b4a69fd5","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Sun Sep 29 2019 04.43 AM >> APP - user - getStudentTeacherList >> {"user_id":"5d8c4b4a69fd5"}
+
+Sun Sep 29 2019 04.43 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0ozS1VNQVI=","sectionId":"TUFOT0o0S1VNQVI="}
+
+Sun Sep 29 2019 04.43 AM >> APP - user - getleavestypelist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg=="}
+
+Sun Sep 29 2019 04.43 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sun Sep 29 2019 04.43 AM >> APP - user - getprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg=="}
+
+Sun Sep 29 2019 10.27 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Sun Sep 29 2019 10.27 AM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 10.28 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9178208577","userPassword":"9178208577","deviceId":"9c25aa6dbfbec480","deviceType":"Android","token_no":"eqoYrlyF8v0:APA91bF89zbG-l9K7QGFLJbIZWwLAVgqhkTxj-6JPMLNEFwZPezB6SEFX4CZz4RHuUr_nkMunWk_Vy6b-wcJQGIQuQmn_tgd6Ed8oi6ssJn3pXrNQO0ju-8Jz019pYzLhiE1KOILLvGX"}
+
+Sun Sep 29 2019 10.28 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9178208577","userPassword":"9178208577","deviceId":"9c25aa6dbfbec480","deviceType":"Android","token_no":"eqoYrlyF8v0:APA91bF89zbG-l9K7QGFLJbIZWwLAVgqhkTxj-6JPMLNEFwZPezB6SEFX4CZz4RHuUr_nkMunWk_Vy6b-wcJQGIQuQmn_tgd6Ed8oi6ssJn3pXrNQO0ju-8Jz019pYzLhiE1KOILLvGX"}
+
+Sun Sep 29 2019 10.29 AM >> APP - user - sendOTP >> {"branchCode":"gnps01","userContact":"9178208577","userType":"Parent"}
+
+Sun Sep 29 2019 10.31 AM >> APP - user - sendOTP >> {"branchCode":"gnps01","userContact":"9178208577","userType":"Parent"}
+
+Sun Sep 29 2019 10.32 AM >> APP - user - sendOTP >> {"branchCode":"gnps01","userContact":"9178208577","userType":"Parent"}
+
+Sun Sep 29 2019 10.32 AM >> APP - user - sendOTP >> {"branchCode":"gnps01","userContact":"9178208577","userType":"Parent"}
+
+Sun Sep 29 2019 10.36 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Sun Sep 29 2019 10.36 AM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 10.37 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"7809926755","userPassword":"7809926755","deviceId":"9c25aa6dbfbec480","deviceType":"Android","token_no":"eqoYrlyF8v0:APA91bF89zbG-l9K7QGFLJbIZWwLAVgqhkTxj-6JPMLNEFwZPezB6SEFX4CZz4RHuUr_nkMunWk_Vy6b-wcJQGIQuQmn_tgd6Ed8oi6ssJn3pXrNQO0ju-8Jz019pYzLhiE1KOILLvGX"}
+
+Sun Sep 29 2019 10.38 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"7809926755","userPassword":"7809926755","deviceId":"9c25aa6dbfbec480","deviceType":"Android","token_no":"eqoYrlyF8v0:APA91bF89zbG-l9K7QGFLJbIZWwLAVgqhkTxj-6JPMLNEFwZPezB6SEFX4CZz4RHuUr_nkMunWk_Vy6b-wcJQGIQuQmn_tgd6Ed8oi6ssJn3pXrNQO0ju-8Jz019pYzLhiE1KOILLvGX"}
+
+Sun Sep 29 2019 10.38 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"7809926755","userPassword":"7809926755","deviceId":"9c25aa6dbfbec480","deviceType":"Android","token_no":"eqoYrlyF8v0:APA91bF89zbG-l9K7QGFLJbIZWwLAVgqhkTxj-6JPMLNEFwZPezB6SEFX4CZz4RHuUr_nkMunWk_Vy6b-wcJQGIQuQmn_tgd6Ed8oi6ssJn3pXrNQO0ju-8Jz019pYzLhiE1KOILLvGX"}
+
+Sun Sep 29 2019 10.39 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps"}
+
+Sun Sep 29 2019 10.39 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps02"}
+
+Sun Sep 29 2019 10.39 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Sun Sep 29 2019 10.39 AM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 10.47 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Sun Sep 29 2019 10.47 AM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 10.48 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9178208577","userPassword":"9178208577","deviceId":"c3fc1299d8c2e202","deviceType":"Android","token_no":"eicW9Gvc3IY:APA91bGRc4P9p9FC3ecCRS3BwpfsWwQocNlwOWUXSe9IR1uGiH_d8MmLEeyN52s2ouUcqXzAHAwk91FhUhmX08v3oYdHvz9dZMPNRqqS5QoV02sRzUUoLXjwW1gE70DaYU-ZgBQnZaSz"}
+
+Sun Sep 29 2019 10.48 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9178208577","userPassword":"gnps01","deviceId":"c3fc1299d8c2e202","deviceType":"Android","token_no":"eicW9Gvc3IY:APA91bGRc4P9p9FC3ecCRS3BwpfsWwQocNlwOWUXSe9IR1uGiH_d8MmLEeyN52s2ouUcqXzAHAwk91FhUhmX08v3oYdHvz9dZMPNRqqS5QoV02sRzUUoLXjwW1gE70DaYU-ZgBQnZaSz"}
+
+Sun Sep 29 2019 10.49 AM >> APP - user - sendOTP >> {"branchCode":"gnps01","userContact":"9178208577","userType":"Parent"}
+
+Sun Sep 29 2019 10.50 AM >> APP - user - sendOTP >> {"branchCode":"gnps01","userContact":"9178208577","userType":"Parent"}
+
+Sun Sep 29 2019 11.24 AM >> APP - user - checkbranchcode >> {"branchCode":"Boss "}
+
+Sun Sep 29 2019 11.24 AM >> APP - user - checkbranchcode >> {"branchCode":"Boss "}
+
+Sun Sep 29 2019 11.24 AM >> APP - user - checkbranchcode >> {"branchCode":"Boss "}
+
+Sun Sep 29 2019 11.24 AM >> APP - user - checkbranchcode >> {"branchCode":"Boss "}
+
+Sun Sep 29 2019 11.24 AM >> APP - user - checkbranchcode >> {"branchCode":"Boss tm8uj"}
+
+Sun Sep 29 2019 12.02 PM >> APP - user - checkbranchcode >> {"branchCode":"123456"}
+
+Sun Sep 29 2019 12.02 PM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 12.02 PM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"9437882808","userPassword":"9437882808","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"9437882808","userType":"Parent"}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"9437882808","userType":"Parent"}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"9437882808","userType":"Parent"}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"9437882808","userType":"Parent"}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"9437882808","userType":"Parent"}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"9437882808","userOTP":""}
+
+Sun Sep 29 2019 12.03 PM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"9437882808","userOTP":""}
+
+Sun Sep 29 2019 12.04 PM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"9437882808","userOTP":""}
+
+Sun Sep 29 2019 12.04 PM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"9437882808","userOTP":""}
+
+Sun Sep 29 2019 12.06 PM >> APP - user - checkbranchcode >> {"branchCode":"mz97"}
+
+Sun Sep 29 2019 12.06 PM >> APP - user - checkbranchcode >> {"branchCode":"123456"}
+
+Sun Sep 29 2019 12.06 PM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 12.06 PM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"7894839639","userPassword":"7894839639","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Sun Sep 29 2019 12.06 PM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"7894839639","userPassword":"123456","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Sun Sep 29 2019 12.07 PM >> APP - user - checkbranchcode >> {"branchCode":"123456"}
+
+Sun Sep 29 2019 12.07 PM >> APP - user - getlogintype >> []
+
+Sun Sep 29 2019 12.07 PM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"9437882808","userPassword":"768002","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Sun Sep 29 2019 02.50 PM >> APP - teacher - setassignment >> []
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-09-29","time":"22:27:13"}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - setstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-09-29","time":"22:27:16","attendanceData":"[{\"5d8b74d14c79d\":\"Present\"},{\"5d8b74d183388\":\"Present\"},{\"5d8b74d1c04b3\":\"Present\"},{\"5d8b74d12bf11\":\"Present\"},{\"5d8b74d198b02\":\"Present\"},{\"5d8b74d16b567\":\"Present\"},{\"5d8b74d192d45\":\"Present\"},{\"5d8b74d1b6b36\":\"Present\"},{\"5d8b74d147b3e\":\"Absent\"},{\"5d8b74d1e2041\":\"Present\"},{\"5d8b74d1a2da5\":\"Present\"},{\"5d8b74d1d7e35\":\"Present\"},{\"5d8b74d212517\":\"Present\"},{\"5d8b74d137a1c\":\"Absent\"},{\"5d8b74d1c5ddd\":\"Present\"},{\"5d8b74d1d1791\":\"Present\"},{\"5d8b74d20a69d\":\"Present\"},{\"5d8b74d1517a4\":\"Present\"},{\"5d8b74d1a7f1c\":\"Present\"},{\"5d8b74d142a1d\":\"Present\"},{\"5d8b74d1eead2\":\"Present\"},{\"5d8b74d17995c\":\"Present\"},{\"5d8b74d1607ad\":\"Present\"},{\"5d8b74d1cbd68\":\"Present\"},{\"5d8b74d1e85ec\":\"Present\"},{\"5d8b74d13256e\":\"Present\"},{\"5d8b74d13cc61\":\"Absent\"},{\"5d8b74d1b18f3\":\"Present\"},{\"5d8b74d202bc2\":\"Present\"},{\"5d8b74d174e7e\":\"Present\"},{\"5d8b74d19da70\":\"Present\"},{\"5d8b74d166232\":\"Present\"},{\"5d8b74d15b8ba\":\"Present\"},{\"5d8b74d18e0a3\":\"Present\"},{\"5d8b74d1566ee\":\"Present\"},{\"5d8b74d1aced9\":\"Present\"},{\"5d8b74d1890ef\":\"Present\"},{\"5d8b74d17e441\":\"Present\"},{\"5d8b74d1dcd8a\":\"Present\"},{\"5d8b74d170326\":\"Present\"},{\"5d8b74d1bb6b5\":\"Present\"}]"}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","date":"2019-09-29","attendanceType":"All"}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sun Sep 29 2019 04.57 PM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Sun Sep 29 2019 04.58 PM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-09-29","attendanceType":"All"}
+
+Sun Sep 29 2019 04.58 PM >> APP - user - getprofiledata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI="}
+
+Sun Sep 29 2019 04.58 PM >> APP - teacher - getownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-01","toDate":"2019-09-29"}
+
+Sun Sep 29 2019 04.58 PM >> APP - user - getleavestypelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI="}
+

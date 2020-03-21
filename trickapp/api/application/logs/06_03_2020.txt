@@ -1,0 +1,14 @@
+Fri Mar 06 2020 01.29 PM >> APP - teacher - setstudentattendance >> {"branchCode":"dps001","userType":"student","userId":"80","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+
+Fri Mar 06 2020 01.30 PM >> APP - teacher - setstudentattendance >> {"branchCode":"dps001","userType":"student","userId":"80","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+
+Fri Mar 06 2020 01.30 PM >> APP - teacher - setstudentattendance >> {"branchCode":"dps001","userType":"student","userId":"80","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+
+Fri Mar 06 2020 01.31 PM >> APP - teacher - setstudentattendance >> {"branchCode":"dps001","userType":"student","userId":"80","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+
+Fri Mar 06 2020 01.32 PM >> APP - teacher - getstudentattendance >> {"branchCode":"dps001","userType":"student","userId":"80","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+
+Fri Mar 06 2020 01.52 PM >> APP - teacher - getstudentattendance >> {"branchCode":"dps001","userType":"teacher","userId":"1","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+
+Fri Mar 06 2020 01.54 PM >> APP - teacher - getstudentattendance >> {"branchCode":"dps001","userType":"teacher","userId":"1","boardId":"1","classId":"1","sectionId":"1","date":"2020-03-04 00:00:00","attendanceType":"Present"}
+

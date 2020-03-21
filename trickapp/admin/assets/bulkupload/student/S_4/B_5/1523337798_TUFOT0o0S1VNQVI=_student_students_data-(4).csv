@@ -1,0 +1,58 @@
+First Name,Middle Name,Last Name,Date of Birth,Gender,Religion,Category,Visible mark,Roll No,Registration No,Admission Date,Father First Name,Father Middle Name,Father Last Name,Father Mobile,Father Phone,Father Email,Father Pan card,Father Adhaar Card,Father Income,Father Occupation,Father Education,Father Age,Mother First Name,Mother Middle Name,Mother Last Name,Mother mobile,Mother phone,Mother email,Mother pancard,Mother  Adhaar Card,Mother Income,Mother Occupation,Mother education,Mother Age
+"<!DOCTYPE html>
+<html lang=""en"">
+<head>
+<meta charset=""utf-8"">
+<meta http-equiv=""X-UA-Compatible"" content=""IE=edge"">
+<meta name=""viewport"" content=""width=device-width
+<title>404 Page Not Found</title>
+<meta name=""description"" content="""">
+<meta name=""keywords"" content="""">
+<!-- bootstrap-css -->
+<link rel=""stylesheet"" href=""http://localhost/school-orissa/admin/assets/css/bootstrap.min.css"" >
+<!-- //bootstrap-css -->
+<!-- Custom CSS -->
+<link href=""http://localhost/school-orissa/admin/assets/css/style.css"" rel='stylesheet' type='text/css' />
+<link href=""http://localhost/school-orissa/admin/assets/css/style-responsive.css"" rel=""stylesheet""/>
+<!-- font CSS -->
+<!-- font-awesome icons -->
+<link rel=""stylesheet"" href=""http://localhost/school-orissa/admin/assets/css/font.css"" type=""text/css""/>
+<link href=""http://localhost/school-orissa/admin/assets/css/font-awesome.css"" rel=""stylesheet""> 
+<!-- //font-awesome icons -->
+<script src=""http://localhost/school-orissa/admin/assets/js/jquery2.0.3.min.js""></script>
+<script type=""text/ecmascript"">
+var BASEURL 
+var FULLSITEURL 
+var CURRENTCLASS 
+var CURRENTMETHOD 
+var csrf_api_key
+var csrf_api_value 
+</script>
+</head>
+<body>
+<header class=""header fixed-top clearfix"">
+  <div class=""brand""> <a href=""http://localhost/school-orissa/admin/dav/dashboard"" class=""logo"">DAV</a>
+    <div class=""sidebar-toggle-box"">
+      <div class=""fa fa-bars""></div>
+    </div>
+  </div>
+  <div class=""top-nav clearfix"">
+  <div class=""center"">
+            <select name=""currentSchoolBranchId"" id=""currentSchoolBranchId"">
+           <option value="""">Select branch</option><option value=""TUFOT0o0S1VNQVI=_____TUFOT0o2S1VNQVI="" selected=""selected"">PRATAP VIHAR</option><option value=""TUFOT0o0S1VNQVI=_____TUFOT0o1S1VNQVI="" >Sarla chopra</option>         </select>
+       <select name=""currentSchoolBranchId"" id=""currentSchoolBranchBoardId"">
+    
+    <ul class=""nav pull-right top-menu"">
+      <li class=""dropdown""> <a data-toggle=""dropdown"" class=""dropdown-toggle"" href=""javascript:void(0)
+$(document).on(""change""
+$(document).on(""change""
+$(document).ready(function(){
+})
+</script> <aside>
+  <div id=""sidebar"" class=""nav-collapse "">
+    <div class=""leftside-navigation"">
+      <ul class=""sidebar-menu"" id=""nav-accordion"">
+        <li> <a href=""http://localhost/school-orissa/admin/dav/dashboard""> <i class=""fa fa-dashboard""></i> <span>Dashboard</span> </a> </li>
+                  <li><a href=""http://localhost/school-orissa/admin/dav/branch/index""><i aria-hidden=""true"" class=""fa fa-users""></i>&nbsp
+",kumar,pandey,2-01-2001,Female,Hindu,SC,cut mark on neck,2,1231,2-04-2018,raj,kumar,pandey,9306658887,9306658887,pandeyk4u@gmail.com,pan123f,adhaar123f,10000,teacher,12th,45,vinodani,kumari,pandey,9718741111,9718741111,vinod@gmail.com,pan123m,adhar123m,5000,housewife,graduate,41
+mukesh,kumar,sharma,02-01-2001,Male,Hindu,ST,cut mark on neck,2,1231,2-04-2018,Rajan,kumar,sharma,9306658887,9306658887,sharmak4u@gmail.com,pan123f,adhaar123fs,10000,teacher,12th,45,sunita,kumari,sharma,9718741111,9718741121,sharmat@gmail.com,pan123m,adhar123s,5000,housewife,graduate,41

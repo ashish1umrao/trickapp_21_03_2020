@@ -1,0 +1,92 @@
+Sun Oct 20 2019 05.40 AM >> APP - user - checkbranchcode >> {"branchCode":"123356"}
+
+Sun Oct 20 2019 05.40 AM >> APP - user - checkbranchcode >> {"branchCode":"happy birthday"}
+
+Sun Oct 20 2019 11.16 AM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-10-20","time":"16:46:50"}
+
+Sun Oct 20 2019 11.19 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Sun Oct 20 2019 11.19 AM >> APP - user - getlogintype >> []
+
+Sun Oct 20 2019 11.19 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.19 AM >> APP - teacher - getownattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-10-20","toDate":"2019-10-20"}
+
+Sun Oct 20 2019 11.19 AM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","deviceId":"d7b4e1b520805855","deviceType":"Android"}
+
+Sun Oct 20 2019 11.19 AM >> APP - user - resetPassword >> {"branchCode":"marry1","userContact":"8763488459","userType":"Teacher","userPassword":"9977"}
+
+Sun Oct 20 2019 11.19 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"9977","deviceId":"d7b4e1b520805855","deviceType":"Andriod","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.19 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Sun Oct 20 2019 11.19 AM >> APP - teacher - setownattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-10-20","time":"16:49:57"}
+
+Sun Oct 20 2019 11.19 AM >> APP - teacher - getownstudentlist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS"}
+
+Sun Oct 20 2019 11.20 AM >> APP - teacher - setstudentattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS","date":"2019-10-20","time":"16:49:59","attendanceData":"[{\"5da9a18fbbec0\":\"Present\"},{\"5da9a18fd6460\":\"Present\"},{\"5da9a18fa7d05\":\"Absent\"},{\"5da9a19002ceb\":\"Present\"},{\"5da9a18fd9392\":\"Present\"},{\"5da9a18fbec5a\":\"Present\"},{\"5da9a18feb23b\":\"Present\"},{\"5da9a18fedfb4\":\"Present\"},{\"5da9a18fe257c\":\"Present\"},{\"5da9a18fb8b79\":\"Present\"},{\"5da9a18faf887\":\"Present\"},{\"5da9a18ff3e9c\":\"Present\"},{\"5da9a1902eea5\":\"Present\"},{\"5da9a19021f9a\":\"Present\"},{\"5da9a18fc76d7\":\"Present\"},{\"5da9a1900d936\":\"Present\"},{\"5da9a1902a637\":\"Present\"},{\"5da9a18fab64f\":\"Present\"},{\"5da9a18fd046a\":\"Present\"},{\"5da9a19025f44\":\"Present\"},{\"5da9a190337a8\":\"Present\"},{\"5da9a18fb5bc5\":\"Present\"},{\"5da9a18fdc4fd\":\"Present\"},{\"5da9a18ff0f0a\":\"Present\"},{\"5da9a190147da\":\"Present\"},{\"5da9a1903e045\":\"Present\"},{\"5da9a18fc1a42\":\"Present\"},{\"5da9a18fe53f1\":\"Present\"},{\"5da9a18fe83c5\":\"Present\"},{\"5da9a19006082\":\"Present\"},{\"5da9a19038f43\":\"Present\"},{\"5da9a18fd34aa\":\"Present\"},{\"5da9a1901b52d\":\"Present\"},{\"5da9a19017cbf\":\"Present\"},{\"5da9a1901174a\":\"Present\"},{\"5da9a18fc4894\":\"Present\"},{\"5da9a18fcd5c6\":\"Present\"},{\"5da9a19009989\":\"Present\"},{\"5da9a18fdf635\":\"Present\"},{\"5da9a18fb2b63\":\"Present\"},{\"5da9a1901ebcc\":\"Present\"}]"}
+
+Sun Oct 20 2019 11.20 AM >> APP - teacher - getstudentattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS","date":"2019-10-20","attendanceType":"All"}
+
+Sun Oct 20 2019 11.20 AM >> APP - teacher - getclasslist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - getsectionlist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI="}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - getsubjectlist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS"}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - sethomework >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS","subjectId":"TUFOT0o1MEtVTUFS","title":"English homework","fromDate":"2019-10-20","toDate":"2019-10-20","content":"English\u00a0is a\u00a0West Germanic language\u00a0that was first spoken in\u00a0early medieval England\u00a0and eventually became a global\u00a0lingua franca.[4][5]\u00a0It is named after the\u00a0Angles, one of the\u00a0Germanic tribes\u00a0that migrated to the area of\u00a0Great Britain\u00a0that later took their name, as\u00a0England. Both names derive from\u00a0Anglia, a peninsula in the\u00a0Baltic Sea. The language is closely related to\u00a0Frisian\u00a0and\u00a0Low Saxon, and its vocabulary has been significantly influenced by other\u00a0Germanic languages, particularly\u00a0Norse\u00a0(a\u00a0North Germanic language), and to a greater extent by\u00a0Latin\u00a0and\u00a0French.[6]\n\nEnglish"}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - getclasslist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - getsectionlist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI="}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - getsubjectlist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS"}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - gethomeworklist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS","subjectId":"TUFOT0o1MEtVTUFS","title":""}
+
+Sun Oct 20 2019 11.22 AM >> APP - teacher - updateHomeWorkList >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS","subjectId":"TUFOT0oxMktVTUFS","title":"English homework","homeWorkId":"TUFOT0oxMEtVTUFS"}
+
+Sun Oct 20 2019 11.23 AM >> APP - teacher - getownattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-010-01","toDate":"2019-10-20"}
+
+Sun Oct 20 2019 11.28 AM >> APP - user - getnotificationlist >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":"TUFOT0oxMktVTUFS"}
+
+Sun Oct 20 2019 11.28 AM >> APP - user - getprofiledata >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg=="}
+
+Sun Oct 20 2019 11.28 AM >> APP - user - updateprofiledata >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","userFName":"Santosh Kumar Singh","userPhone":"","userEmail":"stoo1@gmail.com","userAddress":"","userMName":"xyz","userLName":"Singh","userLocality":"Sector 62","userCity":"Noida","userState":"UP","userZipcode":"201309"}
+
+Sun Oct 20 2019 11.36 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Sun Oct 20 2019 11.36 AM >> APP - user - getlogintype >> []
+
+Sun Oct 20 2019 11.37 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.37 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.37 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.37 AM >> APP - user - checkbranchcode >> {"branchCode":"marry01"}
+
+Sun Oct 20 2019 11.38 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Sun Oct 20 2019 11.38 AM >> APP - user - getlogintype >> []
+
+Sun Oct 20 2019 11.38 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488549","userPassword":"8763488549","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.39 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Sun Oct 20 2019 11.39 AM >> APP - user - sendOTP >> {"branchCode":"marry1","userContact":"8763488459","userType":"Parent"}
+
+Sun Oct 20 2019 11.40 AM >> APP - user - sendOTP >> {"branchCode":"marry1","userContact":"8763488459","userType":"Parent"}
+
+Sun Oct 20 2019 11.41 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Sun Oct 20 2019 11.42 AM >> APP - user - getlogintype >> []
+
+Sun Oct 20 2019 12.37 PM >> APP - user - checkbranchcode >> {"branchCode":"test01 "}
+
+Sun Oct 20 2019 12.37 PM >> APP - user - getlogintype >> []
+
+Sun Oct 20 2019 12.38 PM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8630028303","userPassword":"8630028303","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"fEvjVM7u500:APA91bHOVQ20PB3dfN8T4B7zSCGdWPi1EuJTEifs59jGF3oTlFVSfu9mk9hQELI-AcdZzWGUFF5VKr4LBwekIy1ipTEC1cX4nHYgxZhB-MVURG5zX9FY75th6la8VbWimPb3-WLxnXTv"}
+
+Sun Oct 20 2019 12.38 PM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8630028303","userPassword":"8630028303","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"fEvjVM7u500:APA91bHOVQ20PB3dfN8T4B7zSCGdWPi1EuJTEifs59jGF3oTlFVSfu9mk9hQELI-AcdZzWGUFF5VKr4LBwekIy1ipTEC1cX4nHYgxZhB-MVURG5zX9FY75th6la8VbWimPb3-WLxnXTv"}
+

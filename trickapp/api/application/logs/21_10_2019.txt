@@ -1,0 +1,300 @@
+Mon Oct 21 2019 02.11 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 02.11 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 02.12 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Mon Oct 21 2019 02.12 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Mon Oct 21 2019 02.21 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 02.21 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 02.22 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"d7b4e1b520805855","deviceType":"Android","token_no":"fQ2cFRvaWJg:APA91bG89kzWRqL0HD3HvEW68M-jVs3fvtWQsSaJLS5R_G2mkB3lO_CLetHtaz1cEdVclCKmZ2mJrv-3YEgLM1aZcAssUQnwiUZ7X0HjdPw-oWQdXUX4iG5eXtowqGQyIZq7h5wnylHv"}
+
+Mon Oct 21 2019 04.55 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Mon Oct 21 2019 04.55 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 04.55 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8439503630","userPassword":"1234","deviceId":"b0615f3da1a0c252","deviceType":"Android","token_no":"f08_pvZ6Hf0:APA91bFZK9i6XAusW5UarlMT5rMipgLJ9soxZyZy9bpAhCGQT52fNAZ0QiTqTSZZltiVb95X_oWKMrvK8bxB4r6FiC66rJAakw85C8yr3GtUMo6PH-zuW2iIR3favWj3arog362WKvPI"}
+
+Mon Oct 21 2019 04.56 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8630028303","userPassword":"1234","deviceId":"b0615f3da1a0c252","deviceType":"Android","token_no":"f08_pvZ6Hf0:APA91bFZK9i6XAusW5UarlMT5rMipgLJ9soxZyZy9bpAhCGQT52fNAZ0QiTqTSZZltiVb95X_oWKMrvK8bxB4r6FiC66rJAakw85C8yr3GtUMo6PH-zuW2iIR3favWj3arog362WKvPI"}
+
+Mon Oct 21 2019 04.56 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","deviceId":"b0615f3da1a0c252","deviceType":"Android"}
+
+Mon Oct 21 2019 04.56 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 04.59 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 05.00 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Mon Oct 21 2019 05.00 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 05.01 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8630028303","userPassword":"1234","deviceId":"b0615f3da1a0c252","deviceType":"Android","token_no":"f08_pvZ6Hf0:APA91bFZK9i6XAusW5UarlMT5rMipgLJ9soxZyZy9bpAhCGQT52fNAZ0QiTqTSZZltiVb95X_oWKMrvK8bxB4r6FiC66rJAakw85C8yr3GtUMo6PH-zuW2iIR3favWj3arog362WKvPI"}
+
+Mon Oct 21 2019 05.01 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","deviceId":"b0615f3da1a0c252","deviceType":"Android"}
+
+Mon Oct 21 2019 05.01 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 05.05 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 05.05 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 05.05 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"8763488459","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 05.05 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 05.07 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 05.07 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 05.07 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 05.07 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 05.07 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"7799","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 05.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 05.08 AM >> APP - teacher - getownattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-10-21","toDate":"2019-10-21"}
+
+Mon Oct 21 2019 05.08 AM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","deviceId":"23c9c99090388c12","deviceType":"Android"}
+
+Mon Oct 21 2019 05.08 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Mon Oct 21 2019 05.08 AM >> APP - teacher - setownattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-10-21","time":"10:38:14"}
+
+Mon Oct 21 2019 05.08 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 05.08 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 05.09 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 05.09 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 06.51 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 06.51 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 06.52 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8630028303","userPassword":"123456","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 06.53 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8630028303","userPassword":"123456","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 06.53 AM >> APP - user - sendOTP >> {"branchCode":"marry1","userContact":"8630028303","userType":"Parent"}
+
+Mon Oct 21 2019 06.53 AM >> APP - user - sendOTP >> {"branchCode":"marry1","userContact":"8630028303","userType":"Parent"}
+
+Mon Oct 21 2019 06.54 AM >> APP - user - sendOTP >> {"branchCode":"marry1","userContact":"8630028303","userType":"Parent"}
+
+Mon Oct 21 2019 06.54 AM >> APP - user - sendOTP >> {"branchCode":"marry1","userContact":"8630028303","userType":"Parent"}
+
+Mon Oct 21 2019 07.31 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 07.31 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 07.32 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8979795865","userPassword":"8979795865","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.32 AM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0o0MDJLVU1BUg==","deviceId":"215bfa191dc327e3","deviceType":"Android"}
+
+Mon Oct 21 2019 07.32 AM >> APP - user - resetPassword >> {"branchCode":"marry1","userContact":"8979795865","userType":"Parent","userPassword":"1234"}
+
+Mon Oct 21 2019 07.32 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8979795865","userPassword":"1234","deviceId":"215bfa191dc327e3","deviceType":"Andriod","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.32 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 07.32 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 07.32 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 07.32 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"89795865","userPassword":"1234","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.33 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"89795865","userPassword":"1234","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.33 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8979795865","userPassword":"1234","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.33 AM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0o0MDJLVU1BUg==","deviceId":"215bfa191dc327e3","deviceType":"Android"}
+
+Mon Oct 21 2019 07.33 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 07.34 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 07.34 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 07.35 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8630028303","userPassword":"8630028303","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.38 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 07.38 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 07.38 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"9178984336","userPassword":"9178984336","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.39 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"7008773003","userPassword":"7008773003","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.39 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"7008773003","userPassword":"7008773003","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 07.46 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 07.46 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 07.46 AM >> APP - user - loginwithqrcode >> {"studentregistrationNo":""}
+
+Mon Oct 21 2019 07.46 AM >> APP - user - loginwithqrcode >> {"studentregistrationNo":" 5961\/2018"}
+
+Mon Oct 21 2019 07.46 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 07.47 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 07.53 AM >> APP - user - getprofiledata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI="}
+
+Mon Oct 21 2019 07.55 AM >> APP - user - getprofiledata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI="}
+
+Mon Oct 21 2019 07.55 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 07.55 AM >> APP - user - getTimeTableStudent >> {"user_id":""}
+
+Mon Oct 21 2019 07.56 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 07.56 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 07.56 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 07.56 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 08.09 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 08.09 AM >> APP - user - getStudentSubjectList >> {"user_id":""}
+
+Mon Oct 21 2019 09.48 AM >> APP - user - userauthenticate >> []
+
+Mon Oct 21 2019 09.49 AM >> APP - user - userauthenticate >> []
+
+Mon Oct 21 2019 09.50 AM >> APP - user - userauthenticate >> []
+
+Mon Oct 21 2019 09.50 AM >> APP - user - userauthenticate >> []
+
+Mon Oct 21 2019 09.50 AM >> APP - user - userauthenticate >> []
+
+Mon Oct 21 2019 09.52 AM >> APP - user - userauthenticate >> []
+
+Mon Oct 21 2019 10.23 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 10.23 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 10.23 AM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 10.23 AM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 10.24 AM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8979795865","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0o0MDJLVU1BUg==","deviceId":"23c9c99090388c12","deviceType":"Android"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - getStudentSubjectList >> {"user_id":"5dad5e710cc7a"}
+
+Mon Oct 21 2019 10.24 AM >> APP - teacher - getsyllabus >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0o0MDJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","subjectId":"TUFOT0o0OUtVTUFS"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 10.24 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5dad5e710cc7a"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - getTimeTableStudent >> {"user_id":"5dad5e710cc7a"}
+
+Mon Oct 21 2019 10.24 AM >> APP - user - getStudentfeesreportcard >> {"studentuniqueID":"5dad5e710cc7a"}
+
+Mon Oct 21 2019 10.25 AM >> APP - user - getStudentfeesreportcard >> {"studentuniqueID":"5dad5e710cc7a"}
+
+Mon Oct 21 2019 10.25 AM >> APP - user - getStudentfeesreportcard >> {"studentuniqueID":"5dad5e710cc7a"}
+
+Mon Oct 21 2019 10.25 AM >> APP - user - getnotificationlist >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0o0MDJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o1S1VNQVI=","sectionId":""}
+
+Mon Oct 21 2019 10.25 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 12.02 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 12.02 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.03 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"9556433010","userPassword":"9556433010","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 12.03 PM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0ozOTZLVU1BUg==","deviceId":"215bfa191dc327e3","deviceType":"Android"}
+
+Mon Oct 21 2019 12.03 PM >> APP - user - resetPassword >> {"branchCode":"marry1","userContact":"9556433010","userType":"Parent","userPassword":"1234"}
+
+Mon Oct 21 2019 12.03 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"9556433010","userPassword":"1234","deviceId":"215bfa191dc327e3","deviceType":"Andriod","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 12.03 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 12.04 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 12.04 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.04 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"9556433010","userPassword":"1234","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 12.04 PM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Parent","userId":"TUFOT0ozOTZLVU1BUg==","deviceId":"215bfa191dc327e3","deviceType":"Android"}
+
+Mon Oct 21 2019 12.04 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 21 2019 12.07 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 12.07 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.07 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.08 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.08 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.09 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1 "}
+
+Mon Oct 21 2019 12.09 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.09 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.09 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.13 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 12.13 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.13 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Teacher","userContact":"8763488459","userPassword":"9977","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"eMJh2duh_nc:APA91bEc28dj4E9d8pZnaXokHMVu6FuTBBPQv0Z9Ph_m-vRp1Cg2OlSli8j4MW8uzdFRQaf_KXEC6zij2O5lUfMWZQjApv4_v-03ZMRECAlSxJQ7HXKgsQ8j-sdHFZFlku4EwPxZGFwe"}
+
+Mon Oct 21 2019 12.13 PM >> APP - teacher - getownattendance >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-10-21","toDate":"2019-10-21"}
+
+Mon Oct 21 2019 12.13 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"9861101217","userPassword":"9861101217","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.13 PM >> APP - user - updatedeviceid >> {"branchCode":"marry1","userType":"Teacher","userId":"TUFOT0ozNjFLVU1BUg==","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android"}
+
+Mon Oct 21 2019 12.13 PM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Mon Oct 21 2019 12.14 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"9861101217","userPassword":"9861101217","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.15 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 12.15 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.15 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"eMJh2duh_nc:APA91bEc28dj4E9d8pZnaXokHMVu6FuTBBPQv0Z9Ph_m-vRp1Cg2OlSli8j4MW8uzdFRQaf_KXEC6zij2O5lUfMWZQjApv4_v-03ZMRECAlSxJQ7HXKgsQ8j-sdHFZFlku4EwPxZGFwe"}
+
+Mon Oct 21 2019 12.16 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.17 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"9977","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"dVq1hjmNGNw:APA91bHwP2XWaEgBRMW4NuuH-UY8Ltzq9ZVaAgLtPSbpmx8VhM9VnIHCkpk2sk8-edVECh4Rx5CgqQFLQjc9nTefL5Pm6tle4dxT6Z6A81V5TuBMVmeRCud_RRX-BvA3mmSf6KxTHBUS"}
+
+Mon Oct 21 2019 12.45 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 12.45 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 12.46 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 01.32 PM >> APP - user - checkbranchcode >> {"branchCode":"marry1"}
+
+Mon Oct 21 2019 01.32 PM >> APP - user - getlogintype >> []
+
+Mon Oct 21 2019 01.33 PM >> APP - user - userauthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"215bfa191dc327e3","deviceType":"Android","token_no":"eQfOvCAd5p0:APA91bHGG492eVAQylb5ZQxpetWe6kmYl8n-6cXx51U6mOUe2odDBUpUyO9l7SJzXVYcagvFbmWaSsc5aCkWR7Fr4FiOGlS5b4d-dY64tei2LEE-llUyR1gQn_58p8xQbDxMY139I41O"}
+
+Mon Oct 21 2019 01.33 PM >> APP - user - userAuthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"6105a6e0429ba69b","deviceType":"Andriod","token_no":"222222333"}
+
+Mon Oct 21 2019 01.36 PM >> APP - user - userAuthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"6105a6e0429ba69b","deviceType":"Andriod","token_no":"222222333"}
+
+Mon Oct 21 2019 02.15 PM >> APP - user - userAuthenticateOnline >> {"branchCode":"marry1","userType":"Parent","userContact":"8763488459","userPassword":"8763488459","deviceId":"6105a6e0429ba69b","deviceType":"Andriod","token_no":"222222333"}
+

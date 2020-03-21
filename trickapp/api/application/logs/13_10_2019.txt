@@ -1,0 +1,30 @@
+Sun Oct 13 2019 05.35 AM >> APP - user - checkbranchcode >> {"branchCode":"Trinity "}
+
+Sun Oct 13 2019 05.35 AM >> APP - user - checkbranchcode >> {"branchCode":"Trinity  Academy  School "}
+
+Sun Oct 13 2019 05.36 AM >> APP - user - checkbranchcode >> {"branchCode":"govind"}
+
+Sun Oct 13 2019 05.37 AM >> APP - user - checkbranchcode >> {"branchCode":"123456789"}
+
+Sun Oct 13 2019 12.42 PM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-10-13","time":"18:12:47"}
+
+Sun Oct 13 2019 12.44 PM >> APP - user - getprofiledata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI="}
+
+Sun Oct 13 2019 12.44 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sun Oct 13 2019 12.44 PM >> APP - teacher - getownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-010-01","toDate":"2019-10-13"}
+
+Sun Oct 13 2019 05.33 PM >> APP - user - checkbranchcode >> {"branchCode":"sawera "}
+
+Sun Oct 13 2019 05.33 PM >> APP - user - checkbranchcode >> {"branchCode":"sawera "}
+
+Sun Oct 13 2019 05.33 PM >> APP - user - checkbranchcode >> {"branchCode":"sawera "}
+
+Sun Oct 13 2019 05.34 PM >> APP - user - checkbranchcode >> {"branchCode":"sawera "}
+
+Sun Oct 13 2019 05.34 PM >> APP - user - checkbranchcode >> {"branchCode":"school"}
+
+Sun Oct 13 2019 10.10 PM >> APP - teacher - sethomework >> []
+
+Sun Oct 13 2019 11.19 PM >> APP - teacher - setassignment >> []
+

@@ -1,0 +1,1142 @@
+Thu Sep 26 2019 01.38 AM >> APP - user - checkbranchcode >> {"branchCode":"GNPS01"}
+
+Thu Sep 26 2019 01.38 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 01.38 AM >> APP - user - userauthenticateOnline >> {"branchCode":"GNPS01","userType":"Parent","userContact":"7205947905","userPassword":"7205947905","deviceId":"28554b98877959b9","deviceType":"Android","token_no":"dhmA53UNDec:APA91bH0eB6yb2OVtIkYvabNcMU8T45OgvECf1SofCZtEc47UuDzWZhugMiWma1xx96OzrWrokkE4OZwxKl_Cz_MBsLqmLykkCRyZUyMwA8ldK3ANBi4LSbJUnFqjjoRx9Fmz__tdF0i"}
+
+Thu Sep 26 2019 01.55 AM >> APP - user - userauthenticateOnline >> {"branchCode":"GNPS01","userType":"Parent","userContact":"7205947905","userPassword":"7205947905","deviceId":"28554b98877959b9","deviceType":"Android","token_no":"dhmA53UNDec:APA91bH0eB6yb2OVtIkYvabNcMU8T45OgvECf1SofCZtEc47UuDzWZhugMiWma1xx96OzrWrokkE4OZwxKl_Cz_MBsLqmLykkCRyZUyMwA8ldK3ANBi4LSbJUnFqjjoRx9Fmz__tdF0i"}
+
+Thu Sep 26 2019 01.55 AM >> APP - user - userauthenticateOnline >> {"branchCode":"GNPS01","userType":"Parent","userContact":"7205947905","userPassword":"7205947905","deviceId":"28554b98877959b9","deviceType":"Android","token_no":"dhmA53UNDec:APA91bH0eB6yb2OVtIkYvabNcMU8T45OgvECf1SofCZtEc47UuDzWZhugMiWma1xx96OzrWrokkE4OZwxKl_Cz_MBsLqmLykkCRyZUyMwA8ldK3ANBi4LSbJUnFqjjoRx9Fmz__tdF0i"}
+
+Thu Sep 26 2019 01.55 AM >> APP - user - userauthenticateOnline >> {"branchCode":"GNPS01","userType":"Parent","userContact":"7205947905","userPassword":"7205947905","deviceId":"28554b98877959b9","deviceType":"Android","token_no":"dhmA53UNDec:APA91bH0eB6yb2OVtIkYvabNcMU8T45OgvECf1SofCZtEc47UuDzWZhugMiWma1xx96OzrWrokkE4OZwxKl_Cz_MBsLqmLykkCRyZUyMwA8ldK3ANBi4LSbJUnFqjjoRx9Fmz__tdF0i"}
+
+Thu Sep 26 2019 01.55 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.56 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.56 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.56 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.56 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.56 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - verifyOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userOTP":""}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 01.57 AM >> APP - user - sendOTP >> {"branchCode":"GNPS01","userContact":"7205947905","userType":"Parent"}
+
+Thu Sep 26 2019 02.51 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.51 AM >> APP - teacher - setstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-09-26","time":"08:21:02","attendanceData":"[{\"5d8b74d14c79d\":\"Present\"},{\"5d8b74d183388\":\"Present\"},{\"5d8b74d1c04b3\":\"Present\"},{\"5d8b74d12bf11\":\"Absent\"},{\"5d8b74d198b02\":\"Present\"},{\"5d8b74d16b567\":\"Present\"},{\"5d8b74d192d45\":\"Present\"},{\"5d8b74d1b6b36\":\"Present\"},{\"5d8b74d147b3e\":\"Present\"},{\"5d8b74d1e2041\":\"Present\"},{\"5d8b74d1a2da5\":\"Present\"},{\"5d8b74d1d7e35\":\"Present\"},{\"5d8b74d212517\":\"Absent\"},{\"5d8b74d137a1c\":\"Absent\"},{\"5d8b74d1c5ddd\":\"Present\"},{\"5d8b74d1d1791\":\"Present\"},{\"5d8b74d20a69d\":\"Absent\"},{\"5d8b74d1517a4\":\"Present\"},{\"5d8b74d1a7f1c\":\"Present\"},{\"5d8b74d142a1d\":\"Absent\"},{\"5d8b74d1eead2\":\"Absent\"},{\"5d8b74d17995c\":\"Present\"},{\"5d8b74d1607ad\":\"Present\"},{\"5d8b74d1cbd68\":\"Present\"},{\"5d8b74d1e85ec\":\"Absent\"},{\"5d8b74d13256e\":\"Absent\"},{\"5d8b74d13cc61\":\"Absent\"},{\"5d8b74d1b18f3\":\"Present\"},{\"5d8b74d202bc2\":\"Absent\"},{\"5d8b74d174e7e\":\"Present\"},{\"5d8b74d19da70\":\"Present\"},{\"5d8b74d166232\":\"Present\"},{\"5d8b74d15b8ba\":\"Present\"},{\"5d8b74d18e0a3\":\"Present\"},{\"5d8b74d1566ee\":\"Present\"},{\"5d8b74d1aced9\":\"Present\"},{\"5d8b74d1890ef\":\"Present\"},{\"5d8b74d17e441\":\"Present\"},{\"5d8b74d1dcd8a\":\"Present\"},{\"5d8b74d170326\":\"Present\"},{\"5d8b74d1bb6b5\":\"Present\"}]"}
+
+Thu Sep 26 2019 02.52 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.52 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.52 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.52 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS","title":""}
+
+Thu Sep 26 2019 02.52 AM >> APP - teacher - updateHomeWorkList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNEtVTUFS","title":"2 nd  homeopathy","homeWorkId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 02.52 AM >> APP - teacher - updateHomeWorkList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNEtVTUFS","title":"2 nd  homeopathy","homeWorkId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 02.53 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 02.53 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 02.53 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 02.53 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 02.54 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 02.54 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 02.54 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.54 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.54 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.55 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS","title":""}
+
+Thu Sep 26 2019 02.55 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oxS1VNQVI\\u003d\",\"sectionName\":\"A\"},{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNEtVTUFS","title":"Hello Assignment","assignmentId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 02.58 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.58 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.58 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.58 AM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-09-26","attendanceType":"All"}
+
+Thu Sep 26 2019 02.58 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.59 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 02.59 AM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-09-26","attendanceType":"All"}
+
+Thu Sep 26 2019 02.59 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 03.15 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 03.16 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 03.16 AM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-09-26","attendanceType":"All"}
+
+Thu Sep 26 2019 03.17 AM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0ozMUtVTUFS","branch_id":"TUFOT0ozMktVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 03.23 AM >> APP - user - checkbranchcode >> {"branchCode":"test01 "}
+
+Thu Sep 26 2019 03.23 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 03.23 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8539842525","userPassword":"1234","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.24 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8539842525","userPassword":"8539842525","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.26 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 03.26 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 03.27 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 03.27 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 03.28 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"853984252","userPassword":"8539842525","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.28 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"8539842525","userPassword":"8539842525","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.30 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"8539842525","userPassword":"8539842525","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.32 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 03.32 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 03.32 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.32 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.33 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 03.33 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 03.33 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.37 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 03.37 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 03.38 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"8539842525","userPassword":"8539842525","deviceId":"6c417667afd0b302","deviceType":"Android","token_no":"eTuFgpfwITM:APA91bE6lsRfsyJRD0rIBtW1utfvoCvhnnZZx6M07-aQdLnMPp2QqToehgTLomaeeWX_CjG7z5EcAzdnl-5YhZktGrfMnPEm-ufVsR3JDzPvMNXZo4txD3jUsTw9Qk7N5Ahzxo_twIBu"}
+
+Thu Sep 26 2019 03.42 AM >> APP - user - checkbranchcode >> {"branchCode":"123456"}
+
+Thu Sep 26 2019 03.42 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.18 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 04.21 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 04.21 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.22 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"cvIl_AFPkSI:APA91bHqxvT6v6Cxv5L-Bj8xvp7oZQBJfmrHB4s3GEEXM0qjlcSDFl8B9bC426KNZmEeHbdweB2D1VdT2DLdiVBrFmFai7NIBy_fx96D3UYG4ycu6sx_h_lJMC5nsS-8BEguMFs5Tre1"}
+
+Thu Sep 26 2019 04.22 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o0NktVTUFS","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android"}
+
+Thu Sep 26 2019 04.22 AM >> APP - user - resetPassword >> {"branchCode":"test01","userContact":"7008087719","userType":"Parent","userPassword":"1234"}
+
+Thu Sep 26 2019 04.22 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"1234","deviceId":"8bd2ea2fa6585e9c","deviceType":"Andriod","token_no":"cvIl_AFPkSI:APA91bHqxvT6v6Cxv5L-Bj8xvp7oZQBJfmrHB4s3GEEXM0qjlcSDFl8B9bC426KNZmEeHbdweB2D1VdT2DLdiVBrFmFai7NIBy_fx96D3UYG4ycu6sx_h_lJMC5nsS-8BEguMFs5Tre1"}
+
+Thu Sep 26 2019 04.22 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 04.26 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 04.26 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.27 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"cBwS7rPIYm4:APA91bEgVVjZPIKdX4QZPB4SZi9KNJoGkEI62IjyQRaycSXsy7DQVemhHVy_nwywwvRk-p6OR-fT0fCD57Z-wTsJAzzCYDso2doHQjhy6YoVFE2NzVzcNTpjgQvhRcjZN7QiJ07bR1wo"}
+
+Thu Sep 26 2019 04.27 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"cBwS7rPIYm4:APA91bEgVVjZPIKdX4QZPB4SZi9KNJoGkEI62IjyQRaycSXsy7DQVemhHVy_nwywwvRk-p6OR-fT0fCD57Z-wTsJAzzCYDso2doHQjhy6YoVFE2NzVzcNTpjgQvhRcjZN7QiJ07bR1wo"}
+
+Thu Sep 26 2019 04.27 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"cBwS7rPIYm4:APA91bEgVVjZPIKdX4QZPB4SZi9KNJoGkEI62IjyQRaycSXsy7DQVemhHVy_nwywwvRk-p6OR-fT0fCD57Z-wTsJAzzCYDso2doHQjhy6YoVFE2NzVzcNTpjgQvhRcjZN7QiJ07bR1wo"}
+
+Thu Sep 26 2019 04.27 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"7008087719","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"cBwS7rPIYm4:APA91bEgVVjZPIKdX4QZPB4SZi9KNJoGkEI62IjyQRaycSXsy7DQVemhHVy_nwywwvRk-p6OR-fT0fCD57Z-wTsJAzzCYDso2doHQjhy6YoVFE2NzVzcNTpjgQvhRcjZN7QiJ07bR1wo"}
+
+Thu Sep 26 2019 04.28 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"1234","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android","token_no":"cBwS7rPIYm4:APA91bEgVVjZPIKdX4QZPB4SZi9KNJoGkEI62IjyQRaycSXsy7DQVemhHVy_nwywwvRk-p6OR-fT0fCD57Z-wTsJAzzCYDso2doHQjhy6YoVFE2NzVzcNTpjgQvhRcjZN7QiJ07bR1wo"}
+
+Thu Sep 26 2019 04.28 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o0NktVTUFS","deviceId":"8bd2ea2fa6585e9c","deviceType":"Android"}
+
+Thu Sep 26 2019 04.28 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 04.29 AM >> APP - user - checkbranchcode >> {"branchCode":"test01 "}
+
+Thu Sep 26 2019 04.29 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.31 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7008087719","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 04.31 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o0NktVTUFS","deviceId":"23c9c99090388c12","deviceType":"Android"}
+
+Thu Sep 26 2019 04.31 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 04.31 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8bad24cc6e6"}
+
+Thu Sep 26 2019 04.31 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8bad24cc6e6"}
+
+Thu Sep 26 2019 04.34 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 04.34 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 04.34 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.34 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Teacher","userContact":"9897165616","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 04.34 AM >> APP - teacher - getownattendance >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-26","toDate":"2019-09-26"}
+
+Thu Sep 26 2019 04.34 AM >> APP - user - updatedeviceid >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","deviceId":"23c9c99090388c12","deviceType":"Android"}
+
+Thu Sep 26 2019 04.34 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Thu Sep 26 2019 04.34 AM >> APP - teacher - setownattendance >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-09-26","time":"10:04:47"}
+
+Thu Sep 26 2019 04.34 AM >> APP - teacher - getownstudentlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI=","sectionId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 04.35 AM >> APP - teacher - setstudentattendance >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI=","sectionId":"TUFOT0ozS1VNQVI=","date":"2019-09-26","time":"10:04:53","attendanceData":"[{\"5d8bad2536e62\":\"Absent\"},{\"5d8bad24dc5a6\":\"Present\"},{\"5d8bad24e3661\":\"Present\"},{\"5d8bad24ecdb7\":\"Present\"},{\"5d8bad24e9a99\":\"Present\"},{\"5d8bad24dffe6\":\"Present\"},{\"5d8bad250f03f\":\"Present\"},{\"5d8bad2512305\":\"Present\"},{\"5d8bad24cc6e6\":\"Absent\"},{\"5d8bad2527a97\":\"Absent\"},{\"5d8bad24c7a7f\":\"Absent\"},{\"5d8bad252c57b\":\"Absent\"},{\"5d8bad24d8901\":\"Absent\"},{\"5d8bad250042a\":\"Present\"},{\"5d8bad2516118\":\"Present\"},{\"5d8bad253190b\":\"Absent\"},{\"5d8bad24d08a3\":\"Absent\"},{\"5d8bad24d48a2\":\"Absent\"},{\"5d8bad251ed77\":\"Present\"},{\"5d8bad250baba\":\"Present\"},{\"5d8bad2504a63\":\"Present\"},{\"5d8bad251a6b4\":\"Present\"},{\"5d8bad24e6885\":\"Present\"},{\"5d8bad24f0367\":\"Present\"},{\"5d8bad2508494\":\"Present\"},{\"5d8bad2523399\":\"Absent\"}]"}
+
+Thu Sep 26 2019 04.35 AM >> APP - teacher - getclasslist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 04.35 AM >> APP - teacher - getsectionlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 04.35 AM >> APP - teacher - getstudentattendance >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI=","sectionId":"TUFOT0ozS1VNQVI=","date":"2019-09-26","attendanceType":"All"}
+
+Thu Sep 26 2019 04.36 AM >> APP - teacher - getclasslist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 04.37 AM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0ozNktVTUFS","branch_id":"TUFOT0ozN0tVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o3MUtVTUFS"}
+
+Thu Sep 26 2019 04.37 AM >> APP - teacher - getclasslist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 04.38 AM >> APP - teacher - getclasslist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 04.38 AM >> APP - teacher - getclasslist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 04.38 AM >> APP - teacher - getsectionlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 04.38 AM >> APP - teacher - getsubjectlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI=","sectionId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 04.38 AM >> APP - teacher - getassignmentlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oyS1VNQVI=","sectionId":"TUFOT0ozS1VNQVI=","subjectId":"TUFOT0o0N0tVTUFS","title":""}
+
+Thu Sep 26 2019 04.38 AM >> APP - user - getnoticeboardlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oyS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0ozS1VNQVI\\u003d\",\"sectionName\":\"A\"}]"}
+
+Thu Sep 26 2019 04.48 AM >> APP - user - getnotificationlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oyS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0ozS1VNQVI\\u003d\",\"sectionName\":\"A\"}]"}
+
+Thu Sep 26 2019 04.48 AM >> APP - user - getnoticeboardlist >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oyS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0ozS1VNQVI\\u003d\",\"sectionName\":\"A\"}]"}
+
+Thu Sep 26 2019 04.49 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 04.49 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.50 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"9438865492","userPassword":"9438865492","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 04.52 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01 "}
+
+Thu Sep 26 2019 04.52 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 04.52 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"9897165616","userPassword":"9897165616","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 05.01 AM >> APP - teacher - setownattendance >> {"branchCode":"my#d01","userType":"Teacher","userId":"TUFOT0o3MUtVTUFS","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-09-26","time":"10:31:08"}
+
+Thu Sep 26 2019 05.02 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 05.02 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 05.02 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 05.02 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 05.03 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"9114260959","deviceId":"62317c3b0cbb203b","deviceType":"Android","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.03 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","deviceId":"62317c3b0cbb203b","deviceType":"Android"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - resetPassword >> {"branchCode":"test01","userContact":"9114260959","userType":"Parent","userPassword":"1234"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"1234","deviceId":"62317c3b0cbb203b","deviceType":"Andriod","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - resetPassword >> {"branchCode":"test01","userContact":"9114260959","userType":"Parent","userPassword":"1234"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"1234","deviceId":"62317c3b0cbb203b","deviceType":"Andriod","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"1234","deviceId":"62317c3b0cbb203b","deviceType":"Andriod","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 05.05 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 05.05 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.06 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.06 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 05.06 AM >> APP - user - getTimeTableStudent >> {"user_id":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 05.07 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 05.07 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS"}
+
+Thu Sep 26 2019 05.07 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS"}
+
+Thu Sep 26 2019 05.07 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 05.07 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.07 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.07 AM >> APP - user - getbusroute >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","schoolid":"TUFOT0ozMUtVTUFS"}
+
+Thu Sep 26 2019 05.08 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 05.19 AM >> APP - user - checkbranchcode >> {"branchCode":"my#d01"}
+
+Thu Sep 26 2019 05.19 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 05.19 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"9438334382","userPassword":"9438334382","deviceId":"62317c3b0cbb203b","deviceType":"Android","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.20 AM >> APP - user - userauthenticateOnline >> {"branchCode":"my#d01","userType":"Parent","userContact":"9438334382","userPassword":"9438334382","deviceId":"62317c3b0cbb203b","deviceType":"Android","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.24 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Sep 26 2019 05.24 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 05.25 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"8979796789","userPassword":"8979796789","deviceId":"62317c3b0cbb203b","deviceType":"Android","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.25 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","deviceId":"62317c3b0cbb203b","deviceType":"Android"}
+
+Thu Sep 26 2019 05.25 AM >> APP - user - resetPassword >> {"branchCode":"gnps01","userContact":"8979796789","userType":"Parent","userPassword":"1234"}
+
+Thu Sep 26 2019 05.25 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"8979796789","userPassword":"1234","deviceId":"62317c3b0cbb203b","deviceType":"Andriod","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 05.25 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 05.26 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 06.15 AM >> APP - user - checkbranchcode >> {"branchCode":"test01 "}
+
+Thu Sep 26 2019 06.15 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 06.15 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":" 8979796789","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 06.16 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01 "}
+
+Thu Sep 26 2019 06.16 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 06.16 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":" 8979796789","userPassword":"2234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 06.17 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"8979796789","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 06.17 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","deviceId":"23c9c99090388c12","deviceType":"Android"}
+
+Thu Sep 26 2019 06.17 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 06.17 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 06.17 AM >> APP - user - getTimeTableStudent >> {"user_id":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 06.21 AM >> APP - user - checkbranchcode >> {"branchCode":"test01 "}
+
+Thu Sep 26 2019 06.21 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 06.30 AM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0S1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-09-26","time":"12:00:13"}
+
+Thu Sep 26 2019 06.43 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 06.43 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 06.51 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0S1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 06.53 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 06.53 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 06.56 AM >> APP - user - checkbranchcode >> {"branchCode":"trick demo"}
+
+Thu Sep 26 2019 06.56 AM >> APP - user - checkbranchcode >> {"branchCode":"trick demo"}
+
+Thu Sep 26 2019 06.56 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 06.56 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 06.56 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Teacher","userContact":"7906703537","userPassword":"7906703537","deviceId":"ae202642ac1e41f0","deviceType":"Android","token_no":"eHPhpKsUTro:APA91bG1tZemUheY-9R35Mu4YIQ-GGlNNkNxQ4Dw7iB5pA_k09E54ETwAawDvk0BYGxpzyn0oasqzx65HZbzBjmwMsIC02JKlyfaAx9_Nq1mP3BA905_XCUB8L-ovNNT10tEo74YzO4c"}
+
+Thu Sep 26 2019 06.58 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 06.58 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.00 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"9114260959","deviceId":"7c6fd688b31c7be","deviceType":"Android","token_no":"dm4N9vqOT3w:APA91bF4q2fuOocINYiYuVAxaKpq51mvpgBFA8i-huHCEAsiV1WDystkEDt43zTSzPize0nqqFC9PU86VBqniKCj8tvq3grbecULwc2YlwXxFhiDJvGJAP8BBR1UCjaym2n8CDIZW70o"}
+
+Thu Sep 26 2019 07.00 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 07.00 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.00 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Teacher","userContact":"7906703537","userPassword":"7906703537","deviceId":"ae202642ac1e41f0","deviceType":"Android","token_no":"eHPhpKsUTro:APA91bG1tZemUheY-9R35Mu4YIQ-GGlNNkNxQ4Dw7iB5pA_k09E54ETwAawDvk0BYGxpzyn0oasqzx65HZbzBjmwMsIC02JKlyfaAx9_Nq1mP3BA905_XCUB8L-ovNNT10tEo74YzO4c"}
+
+Thu Sep 26 2019 07.00 AM >> APP - teacher - getownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-26","toDate":"2019-09-26"}
+
+Thu Sep 26 2019 07.00 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","deviceId":"ae202642ac1e41f0","deviceType":"Android"}
+
+Thu Sep 26 2019 07.01 AM >> APP - user - resetPassword >> {"branchCode":"test01","userContact":"7906703537","userType":"Teacher","userPassword":"1234"}
+
+Thu Sep 26 2019 07.01 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Teacher","userContact":"7906703537","userPassword":"1234","deviceId":"ae202642ac1e41f0","deviceType":"Andriod","token_no":"eHPhpKsUTro:APA91bG1tZemUheY-9R35Mu4YIQ-GGlNNkNxQ4Dw7iB5pA_k09E54ETwAawDvk0BYGxpzyn0oasqzx65HZbzBjmwMsIC02JKlyfaAx9_Nq1mP3BA905_XCUB8L-ovNNT10tEo74YzO4c"}
+
+Thu Sep 26 2019 07.01 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Thu Sep 26 2019 07.01 AM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-09-26","time":"12:31:10"}
+
+Thu Sep 26 2019 07.01 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.01 AM >> APP - teacher - setstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","date":"2019-09-26","time":"12:31:14","attendanceData":"[{\"5d8ba5647f049\":\"Present\"},{\"5d8ba56492c98\":\"Present\"},{\"5d8ba5647482f\":\"Absent\"},{\"5d8ba5649d71d\":\"Present\"},{\"5d8ba5649813b\":\"Present\"},{\"5d8ba564d032f\":\"Present\"},{\"5d8ba56469f11\":\"Absent\"},{\"5d8ba5648c94f\":\"Present\"},{\"5d8ba56454759\":\"Absent\"},{\"5d8ba564ca16c\":\"Present\"},{\"5d8ba564d5f50\":\"Present\"},{\"5d8ba564be804\":\"Present\"},{\"5d8ba564adabd\":\"Present\"},{\"5d8ba5644ce9a\":\"Present\"},{\"5d8ba56464852\":\"Absent\"},{\"5d8ba564b8d76\":\"Present\"},{\"5d8ba5646f4b2\":\"Present\"},{\"5d8ba564b3357\":\"Present\"},{\"5d8ba564dba43\":\"Present\"},{\"5d8ba564a8369\":\"Present\"},{\"5d8ba564c40b5\":\"Present\"},{\"5d8ba56479c3f\":\"Present\"},{\"5d8ba5648721e\":\"Present\"},{\"5d8ba5645f0e6\":\"Present\"},{\"5d8ba56459c20\":\"Absent\"},{\"5d8ba564a2f44\":\"Present\"}]"}
+
+Thu Sep 26 2019 07.01 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.01 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.01 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 07.01 AM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","date":"2019-09-26","attendanceType":"All"}
+
+Thu Sep 26 2019 07.01 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.02 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"9114260959","deviceId":"7c6fd688b31c7be","deviceType":"Android","token_no":"dm4N9vqOT3w:APA91bF4q2fuOocINYiYuVAxaKpq51mvpgBFA8i-huHCEAsiV1WDystkEDt43zTSzPize0nqqFC9PU86VBqniKCj8tvq3grbecULwc2YlwXxFhiDJvGJAP8BBR1UCjaym2n8CDIZW70o"}
+
+Thu Sep 26 2019 07.03 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.04 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.04 AM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","date":"2019-09-26","attendanceType":"All"}
+
+Thu Sep 26 2019 07.04 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.04 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 07.04 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.04 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9114260959","userPassword":"9114260959","deviceId":"7c6fd688b31c7be","deviceType":"Android","token_no":"dm4N9vqOT3w:APA91bF4q2fuOocINYiYuVAxaKpq51mvpgBFA8i-huHCEAsiV1WDystkEDt43zTSzPize0nqqFC9PU86VBqniKCj8tvq3grbecULwc2YlwXxFhiDJvGJAP8BBR1UCjaym2n8CDIZW70o"}
+
+Thu Sep 26 2019 07.06 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.06 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.06 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.06 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS"}
+
+Thu Sep 26 2019 07.07 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Sep 26 2019 07.07 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"8979796789","userPassword":"8979796789","deviceId":"7c6fd688b31c7be","deviceType":"Android","token_no":"fJdZH-ZJu8M:APA91bFmpwLDMi4AYD5geKl6qunq3ryAXUj4PEXIBbOJcBxBUac8qoCQ8NXsFr1AS2cslcK81eNJOcXKi7UG3KZecpLxAy8-cES43L2ZcPo0MLkJSxDyVRp0qndfV4hBCSsw41D08gzb"}
+
+Thu Sep 26 2019 07.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"8979796789","userPassword":"8979796789","deviceId":"7c6fd688b31c7be","deviceType":"Android","token_no":"fJdZH-ZJu8M:APA91bFmpwLDMi4AYD5geKl6qunq3ryAXUj4PEXIBbOJcBxBUac8qoCQ8NXsFr1AS2cslcK81eNJOcXKi7UG3KZecpLxAy8-cES43L2ZcPo0MLkJSxDyVRp0qndfV4hBCSsw41D08gzb"}
+
+Thu Sep 26 2019 07.09 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"8979796789","userPassword":"1234","deviceId":"7c6fd688b31c7be","deviceType":"Android","token_no":"fJdZH-ZJu8M:APA91bFmpwLDMi4AYD5geKl6qunq3ryAXUj4PEXIBbOJcBxBUac8qoCQ8NXsFr1AS2cslcK81eNJOcXKi7UG3KZecpLxAy8-cES43L2ZcPo0MLkJSxDyVRp0qndfV4hBCSsw41D08gzb"}
+
+Thu Sep 26 2019 07.09 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","deviceId":"7c6fd688b31c7be","deviceType":"Android"}
+
+Thu Sep 26 2019 07.09 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.09 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 07.09 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 07.10 AM >> APP - teacher - getsyllabus >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0ozS1VNQVI=","subjectId":""}
+
+Thu Sep 26 2019 07.10 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 07.10 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.10 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Parent","userId":"5d8c4b4a69fd5","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Thu Sep 26 2019 07.10 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 07.10 AM >> APP - user - getprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg=="}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - getbusroute >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","schoolid":"TUFOT0oxOEtVTUFS"}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - getleavestypelist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg=="}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8439503630","userPassword":"1234","deviceId":"9f3111990fd1a24a","deviceType":"Android","token_no":"fvMnWQeGrek:APA91bGuxGF7Ekbaf_1JqK2oArafQUtqx5h_QnL6HTwyrOGuI8CdyB2yyaFlzxMa4L0VsrjsnAi5aaBZBWogi-KMMqTeVn_QMZQ6FTHQ24gMiG1sLjhNd9lbC6lXfcjDoheZQEqtEKEW"}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8439503630","userPassword":"8439503630","deviceId":"9f3111990fd1a24a","deviceType":"Android","token_no":"fvMnWQeGrek:APA91bGuxGF7Ekbaf_1JqK2oArafQUtqx5h_QnL6HTwyrOGuI8CdyB2yyaFlzxMa4L0VsrjsnAi5aaBZBWogi-KMMqTeVn_QMZQ6FTHQ24gMiG1sLjhNd9lbC6lXfcjDoheZQEqtEKEW"}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","deviceId":"9f3111990fd1a24a","deviceType":"Android"}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - resetPassword >> {"branchCode":"test01","userContact":"8439503630","userType":"Parent","userPassword":"1234"}
+
+Thu Sep 26 2019 07.11 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8439503630","userPassword":"1234","deviceId":"9f3111990fd1a24a","deviceType":"Andriod","token_no":"fvMnWQeGrek:APA91bGuxGF7Ekbaf_1JqK2oArafQUtqx5h_QnL6HTwyrOGuI8CdyB2yyaFlzxMa4L0VsrjsnAi5aaBZBWogi-KMMqTeVn_QMZQ6FTHQ24gMiG1sLjhNd9lbC6lXfcjDoheZQEqtEKEW"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - checkbranchcode >> {"branchCode":"test01 "}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.12 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9853288739","userPassword":"9853288739","deviceId":"23c9c99090388c12","deviceType":"Android","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o4S1VNQVI=","deviceId":"23c9c99090388c12","deviceType":"Android"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - sendleaverequest >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozNTlLVU1BUg==","leavesTypeId":"TUFOT0oyNUtVTUFS","fromDate":"26\/9\/2019","fromLeave":"First Half","toDate":"26\/9\/2019","toLeave":"First Half","leaveReason":"sick","addressOnLeave":"sambalpur","contactOnLeave":"1234556874","childId":"5d8c4b4a69fd5"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - resetPassword >> {"branchCode":"test01","userContact":"9853288739","userType":"Parent","userPassword":"1234"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"9853288739","userPassword":"1234","deviceId":"23c9c99090388c12","deviceType":"Andriod","token_no":"d4xA1bS3d0w:APA91bGxdeKNgWOKdrTeMOGQXh1wWIE8POBTEHdckmrj7rPOul1iGI5diG1SB2LkgCxI6DgKvYAm1EE09e-IslCQ3vjA9umPosIrnMQNbud3L6sEo-DJI1PYdVuYs0jx9914MJw69m-w"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.12 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d147b3e"}
+
+Thu Sep 26 2019 07.13 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o4S1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS"}
+
+Thu Sep 26 2019 07.13 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o4S1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS"}
+
+Thu Sep 26 2019 07.13 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o4S1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.13 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d147b3e"}
+
+Thu Sep 26 2019 07.13 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o4S1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.14 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o4S1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.14 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 07.14 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNEtVTUFS"}
+
+Thu Sep 26 2019 07.14 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS"}
+
+Thu Sep 26 2019 07.15 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.16 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.19 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 07.20 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.22 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS"}
+
+Thu Sep 26 2019 07.25 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.25 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 07.25 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.26 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 07.35 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 07.35 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 07.35 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 07.35 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 07.37 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 07.37 AM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 07.38 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 07.39 AM >> APP - user - getprofiledata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS"}
+
+Thu Sep 26 2019 07.40 AM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.40 AM >> APP - user - getprofiledata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.45 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.46 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.46 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.46 AM >> APP - teacher - setassignment >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test assignemtnt 26sep","fromDate":"2019-09-26","toDate":"2019-09-28","content":"test app for developemnt "}
+
+Thu Sep 26 2019 07.46 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.47 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.47 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.47 AM >> APP - user - checkbranchcode >> {"branchCode":"9437148695"}
+
+Thu Sep 26 2019 07.47 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 07.47 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps 01"}
+
+Thu Sep 26 2019 07.48 AM >> APP - user - checkbranchcode >> {"branchCode":"GNPS 01"}
+
+Thu Sep 26 2019 07.48 AM >> APP - user - checkbranchcode >> {"branchCode":"GURUNANAK PUBLIC SCHOOL 01"}
+
+Thu Sep 26 2019 07.49 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Sep 26 2019 07.49 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 07.50 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9437148695","userPassword":"9437148695","deviceId":"ae32c1787dc492b3","deviceType":"Android","token_no":"eaWn6QBDWZk:APA91bGkU4R9OQu48ZacxiTn-Vk-pZyNhE2g_di8OKrqdDpuomEva9vGG6WZDIQuupk1EHh1ttcY_tcbYkdQeprNhg_9wke2Vc0Q2uZvF1cQD7Y650wK8debTz4PB69SgY5nGAX6UM84"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg==","deviceId":"ae32c1787dc492b3","deviceType":"Android"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - resetPassword >> {"branchCode":"gnps01","userContact":"9437148695","userType":"Parent","userPassword":"2575"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9437148695","userPassword":"2575","deviceId":"ae32c1787dc492b3","deviceType":"Andriod","token_no":"eaWn6QBDWZk:APA91bGkU4R9OQu48ZacxiTn-Vk-pZyNhE2g_di8OKrqdDpuomEva9vGG6WZDIQuupk1EHh1ttcY_tcbYkdQeprNhg_9wke2Vc0Q2uZvF1cQD7Y650wK8debTz4PB69SgY5nGAX6UM84"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - resetPassword >> {"branchCode":"gnps01","userContact":"9437148695","userType":"Parent","userPassword":"2575"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"9437148695","userPassword":"2575","deviceId":"ae32c1787dc492b3","deviceType":"Andriod","token_no":"eaWn6QBDWZk:APA91bGkU4R9OQu48ZacxiTn-Vk-pZyNhE2g_di8OKrqdDpuomEva9vGG6WZDIQuupk1EHh1ttcY_tcbYkdQeprNhg_9wke2Vc0Q2uZvF1cQD7Y650wK8debTz4PB69SgY5nGAX6UM84"}
+
+Thu Sep 26 2019 07.50 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.52 AM >> APP - user - getgallerylist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg=="}
+
+Thu Sep 26 2019 07.52 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment Class 1 B","assignmentId":"TUFOT0o0S1VNQVI="}
+
+Thu Sep 26 2019 07.52 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 07.52 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 07.52 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 07.53 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment Class 1 B","assignmentId":"TUFOT0o0S1VNQVI="}
+
+Thu Sep 26 2019 07.53 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.53 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.53 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.53 AM >> APP - user - getStudentTeacherList >> {"user_id":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 07.53 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 07.54 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNktVTUFS","title":"test assignemtnt 26sep","assignmentId":"TUFOT0o2S1VNQVI="}
+
+Thu Sep 26 2019 07.57 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.57 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 07.57 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 07.57 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 07.58 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment","assignmentId":"TUFOT0o1S1VNQVI="}
+
+Thu Sep 26 2019 08.00 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.00 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.00 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 08.00 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 08.01 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment","assignmentId":"TUFOT0o1S1VNQVI="}
+
+Thu Sep 26 2019 08.02 AM >> APP - teacher - updateAssignmentList >> []
+
+Thu Sep 26 2019 08.03 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment","assignmentId":"TUFOT0o1S1VNQVI="}
+
+Thu Sep 26 2019 08.04 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.05 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.05 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 08.05 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 08.06 AM >> APP - user - checkbranchcode >> {"branchCode":"123456"}
+
+Thu Sep 26 2019 08.06 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 08.07 AM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"8280807637","userType":"Parent"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"8280807637","userType":"Parent"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"8280807637","userType":"Parent"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - verifyOTP >> {"branchCode":"123456","userContact":"8280807637","userOTP":"1307"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"8280807637","userType":"Parent"}
+
+Thu Sep 26 2019 08.07 AM >> APP - user - sendOTP >> {"branchCode":"123456","userContact":"8280807637","userType":"Parent"}
+
+Thu Sep 26 2019 08.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"8280807637","userPassword":"1306","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Thu Sep 26 2019 08.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"8280807637","userPassword":"1306","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Thu Sep 26 2019 08.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"8280807637","userPassword":"768002","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Thu Sep 26 2019 08.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"8280807637","userPassword":"mz97","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Thu Sep 26 2019 08.09 AM >> APP - user - userauthenticateOnline >> {"branchCode":"123456","userType":"Parent","userContact":"8280807637","userPassword":"123456","deviceId":"7dce68dffd71a3cd","deviceType":"Android","token_no":"cuQn5CndlHg:APA91bGcd-OWxaeaOwxtkamuZYGQKH5pWW_Pq3uin3ue6mBxUVDidZNaDIevMf3SgNr3S2ybCLujJnJxKTiCSu2meL-RRk9RZ8UpeAzzf4PaC4rjcduwipljujrTa6yY-ngkh_6hFlBm"}
+
+Thu Sep 26 2019 08.13 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.13 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.13 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 08.16 AM >> APP - teacher - setassignment >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test application ","fromDate":"2019-09-26","toDate":"2019-09-27","content":"demo trick"}
+
+Thu Sep 26 2019 08.16 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.17 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 08.17 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 08.18 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 08.18 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Parent","userId":"5d860b1f40136","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Thu Sep 26 2019 08.23 AM >> APP - teacher - setassignment >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test app","fromDate":"2019-09-26","toDate":"2019-09-27","content":"send some homework"}
+
+Thu Sep 26 2019 08.24 AM >> APP - teacher - setassignment >> []
+
+Thu Sep 26 2019 08.24 AM >> APP - teacher - setassignment >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test app ","fromDate":"2019-09-26","toDate":"2019-09-27","content":"send some homework "}
+
+Thu Sep 26 2019 09.21 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.21 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.21 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 09.22 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.23 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.23 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.23 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 09.25 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI= ","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.28 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"","assignmentId":"TUFOT0o2S1VNQVI="}
+
+Thu Sep 26 2019 09.28 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI= ","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.29 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 09.31 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.32 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o3NzNLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxN0tVTUFS","sectionId":"TUFOT0o1MEtVTUFS","subjectId":"TUFOT0ozNUtVTUFS","title":"","assignmentId":"TUFOT0o3S1VNQVI="}
+
+Thu Sep 26 2019 09.32 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.48 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.48 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.48 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 09.49 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.49 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 09.49 AM >> APP - user - getTimeTableStudent >> {"user_id":"5d860b1f40136"}
+
+Thu Sep 26 2019 09.50 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d860b1f40136"}
+
+Thu Sep 26 2019 09.50 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0o5NDdLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o0S1VNQVI=","sectionId":"TUFOT0o4S1VNQVI="}
+
+Thu Sep 26 2019 09.50 AM >> APP - user - getnotificationlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0o5NDdLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o0S1VNQVI=","sectionId":"TUFOT0o4S1VNQVI="}
+
+Thu Sep 26 2019 09.50 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment Class 1 B","assignmentId":"TUFOT0o0S1VNQVI="}
+
+Thu Sep 26 2019 09.54 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.54 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.54 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 09.54 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 09.55 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 09.56 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.04 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.04 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.04 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.05 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.06 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.06 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.06 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.06 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.07 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.08 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.08 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.08 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.14 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d8b74d12bf11"}
+
+Thu Sep 26 2019 10.14 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Thu Sep 26 2019 10.14 AM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 10.15 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.15 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.15 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.15 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS"}
+
+Thu Sep 26 2019 10.15 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Teacher","userContact":"7906703537","userPassword":"1234","deviceId":"62317c3b0cbb203b","deviceType":"Android","token_no":"ectOAUoKxH8:APA91bHEdrv3XtM1EKnZK9ZCd2r4N9F8KnU9SDXWLEdyc4RXTqK6zvhOrT1RcTfIuYBSXwZsCu0oP2xXcPIzu9LUtuCngPSYUlf3iPIK2ye2fYlAZfWKb7bcstgU76XaedrvPyXb3rLR"}
+
+Thu Sep 26 2019 10.15 AM >> APP - teacher - getownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-26","toDate":"2019-09-26"}
+
+Thu Sep 26 2019 10.15 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","deviceId":"62317c3b0cbb203b","deviceType":"Android"}
+
+Thu Sep 26 2019 10.15 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Thu Sep 26 2019 10.15 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.17 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.17 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.17 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.17 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.17 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test app","assignmentId":"TUFOT0o5S1VNQVI="}
+
+Thu Sep 26 2019 10.18 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.18 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test app","assignmentId":"TUFOT0o4S1VNQVI="}
+
+Thu Sep 26 2019 10.18 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.18 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.18 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS"}
+
+Thu Sep 26 2019 10.18 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getmessagelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS"}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getmessagelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","messageType":"received"}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getmessagelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.19 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS"}
+
+Thu Sep 26 2019 10.20 AM >> APP - teacher - getmessagelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Thu Sep 26 2019 10.20 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 10.20 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.20 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.20 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.20 AM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.20 AM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test app","assignmentId":"TUFOT0o5S1VNQVI="}
+
+Thu Sep 26 2019 10.21 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.22 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 10.23 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.23 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.23 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.23 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.23 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 10.27 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.27 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.27 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.28 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.29 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.30 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - sethomework >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test application ","fromDate":"2019-09 -0 26","toDate":"2019-09-26","content":"test "}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.31 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.32 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.33 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.40 AM >> APP - teacher - updateHomeWorkList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test application","homeWorkId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 10.40 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.40 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.40 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.40 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.45 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.45 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 10.45 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 10.45 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 10.45 AM >> APP - teacher - updateHomeWorkList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0oyS1VNQVI=","title":"test application","homeWorkId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 10.52 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 10.54 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 10.59 AM >> APP - user - updateNotificationStatus >> []
+
+Thu Sep 26 2019 11.13 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 11.57 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 11.59 AM >> APP - user - getnotificationlist >> []
+
+Thu Sep 26 2019 12.08 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 12.42 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 12.47 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 12.47 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 12.56 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.00 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.05 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.05 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.06 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.07 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.11 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.14 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","noticeboardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 01.19 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0o3ODBLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxN0tVTUFS","sectionId":"TUFOT0o1MEtVTUFS","notificationId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 01.22 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.23 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","noticeboardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 01.25 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 01.26 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.28 PM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o3NzNLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxN0tVTUFS","sectionId":"TUFOT0o1MEtVTUFS","subjectId":"TUFOT0ozNUtVTUFS","title":""}
+
+Thu Sep 26 2019 01.29 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","notificationId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 01.29 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.37 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.37 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 01.39 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.39 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 01.39 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.42 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 01.45 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 01.55 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 02.02 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Sep 26 2019 02.02 PM >> APP - user - getlogintype >> []
+
+Thu Sep 26 2019 02.02 PM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Parent","userEmail":"9861160934","userPassword":"9861160934","deviceId":"511f064c7f6ed33","deviceType":"Android","token_no":"dsacKrEEQuk:APA91bFhQkXfd4uXFicXYUeLEL8--FVy1usy2XXRoZEpYDScHwAU0Va57h54A3WuUqMVWiCFMqjIjjoQd-Z4nSpsCJBwqBD26cZJOUX6kqwg34IPBeSV9Irj-iypoRCZDnW3AhN32jV5"}
+
+Thu Sep 26 2019 02.25 PM >> APP - user - checkbranchcode >> {"branchCode":"TVS"}
+
+Thu Sep 26 2019 02.26 PM >> APP - user - checkbranchcode >> {"branchCode":"TVS"}
+
+Thu Sep 26 2019 02.26 PM >> APP - user - checkbranchcode >> {"branchCode":"TVS"}
+
+Thu Sep 26 2019 02.27 PM >> APP - user - checkbranchcode >> {"branchCode":"we connect school, Teacher & parents"}
+
+Thu Sep 26 2019 02.28 PM >> APP - user - checkbranchcode >> {"branchCode":"we connect school, Teacher & parents"}
+
+Thu Sep 26 2019 02.28 PM >> APP - user - checkbranchcode >> {"branchCode":"we connect school, Teacher & parents"}
+
+Thu Sep 26 2019 03.05 PM >> APP - user - checkbranchcode >> {"branchCode":"trick01"}
+
+Thu Sep 26 2019 03.19 PM >> APP - teacher - sethomework >> []
+
+Thu Sep 26 2019 03.53 PM >> APP - user - checkbranchcode >> {"branchCode":"?????"}
+
+Thu Sep 26 2019 03.53 PM >> APP - user - checkbranchcode >> {"branchCode":"?????"}
+
+Thu Sep 26 2019 03.53 PM >> APP - user - checkbranchcode >> {"branchCode":"????? ???????"}
+
+Thu Sep 26 2019 03.58 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Thu Sep 26 2019 03.58 PM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 03.58 PM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 03.58 PM >> APP - teacher - getsyllabus >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0ozS1VNQVI=","subjectId":""}
+
+Thu Sep 26 2019 03.58 PM >> APP - teacher - getsyllabus >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0ozS1VNQVI=","subjectId":""}
+
+Thu Sep 26 2019 03.58 PM >> APP - user - getTimeTableStudent >> {"user_id":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 03.59 PM >> APP - user - getStudentSubjectList >> {"user_id":"5d8c1b8b62583"}
+
+Thu Sep 26 2019 03.59 PM >> APP - teacher - gethomeworklist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0ozS1VNQVI=","sectionId":"TUFOT0o3S1VNQVI=","subjectId":""}
+
+Thu Sep 26 2019 04.06 PM >> APP - user - getprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg=="}
+
+Thu Sep 26 2019 04.07 PM >> APP - user - getnotificationlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0ozS1VNQVI=","sectionId":"TUFOT0o3S1VNQVI="}
+
+Thu Sep 26 2019 04.07 PM >> APP - user - getbusroute >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0oyMTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","schoolid":"TUFOT0oxOEtVTUFS"}
+
+Thu Sep 26 2019 04.10 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 04.10 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test app","assignmentId":"TUFOT0o4S1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test application","assignmentId":"TUFOT0o3S1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.40 PM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - getassignmentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"test assignemtnt 26sep","assignmentId":"TUFOT0o2S1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - updateAssignmentList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":"Test Assignment Class 1 B","assignmentId":"TUFOT0o0S1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0ozNktVTUFS","title":""}
+
+Thu Sep 26 2019 05.41 PM >> APP - teacher - updateHomeWorkList >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oyS1VNQVI=","subjectId":"TUFOT0oyS1VNQVI=","title":"test application","homeWorkId":"TUFOT0ozS1VNQVI="}
+
+Thu Sep 26 2019 05.41 PM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 05.41 PM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 05.42 PM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 05.42 PM >> APP - user - updateNoticeboardStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0pLVU1BUg=="}
+
+Thu Sep 26 2019 05.42 PM >> APP - user - getnoticeboardlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 05.42 PM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]"}
+
+Thu Sep 26 2019 05.42 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0oxS1VNQVI="}
+
+Thu Sep 26 2019 05.42 PM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o0NEtVTUFS","boardId":"TUFOT0oxS1VNQVI=","classId":"[{\"classId\":\"TUFOT0oxS1VNQVI\\u003d\",\"className\":\"1\"}]","sectionId":"[{\"sectionId\":\"TUFOT0oyS1VNQVI\\u003d\",\"sectionName\":\"B\"}]","noticeboardId":"TUFOT0ozS1VNQVI="}
+

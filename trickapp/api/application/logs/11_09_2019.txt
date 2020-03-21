@@ -1,0 +1,324 @@
+Wed Sep 11 2019 01.53 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 01.53 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 01.54 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 01.54 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 03.30 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 03.30 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 05.05 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 05.05 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 05.06 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 05.06 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 05.23 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 05.33 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 05.33 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 05.40 AM >> APP - teacher - setownattendance >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-09-11","time":"11:10:32"}
+
+Wed Sep 11 2019 05.40 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 05.40 AM >> APP - teacher - getownattendance >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-01","toDate":"2019-09-11"}
+
+Wed Sep 11 2019 05.40 AM >> APP - user - getgallerylist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 05.40 AM >> APP - user - getleavestypelist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 05.41 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 05.41 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 06.31 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 06.31 AM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 06.31 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 06.31 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 06.31 AM >> APP - user - getnotificationlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 06.32 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 06.32 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 06.48 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 07.41 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 07.41 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 07.42 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Parent","userEmail":"7978353137","userPassword":"7978353137","deviceId":"dad87848d7067a07","deviceType":"Android","token_no":"dbqs4_fd-V8:APA91bEqIlFbp92tWo7BdnmdhSs_Q-kVO6icDsveX1OBDp26POPVsSewh19If9Bxy9ar3RXg_q8IHdrRhoElM_Ks9zIokUPA5yKGVUtGZ0nlny8NnOJv_z5ssgaOXoe85RNSXEreykyn"}
+
+Wed Sep 11 2019 08.33 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.33 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.33 AM >> APP - user - getleavestypelist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg=="}
+
+Wed Sep 11 2019 08.33 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.33 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.36 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.36 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.38 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.43 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.45 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 08.46 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 10.24 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 10.24 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 10.27 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 10.28 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 10.28 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 10.29 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"gn083@gmail.com","userPassword":"123456","deviceId":"ae202642ac1e41f0","deviceType":"Android","token_no":"dHnPbriRH3I:APA91bF2kw1AnGVTlKgmLCFJQADbVDHpV12eEGbu8Ex9o74eHzrUUAyw0x3-NIDa3vyKvIrcyw5I7mK945DtQLgUTM2NPfs75HPTmb7Nxbq7EdBRZubShCTa1M9m504prd2DDui0n3XS"}
+
+Wed Sep 11 2019 10.29 AM >> APP - teacher - getownattendance >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-11","toDate":"2019-09-11"}
+
+Wed Sep 11 2019 10.29 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","deviceId":"ae202642ac1e41f0","deviceType":"Android"}
+
+Wed Sep 11 2019 10.29 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Wed Sep 11 2019 10.41 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 10.42 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 10.44 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 10.45 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 10.48 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 10.49 AM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 10.50 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 10.56 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 10.59 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Parent","userEmail":"abc@gmail.com","userPassword":"123456","deviceId":"6105a6e0429ba69b","deviceType":"Andriod","token_no":"222222333"}
+
+Wed Sep 11 2019 10.59 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 10.59 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 11.00 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Parent","userEmail":"abc@gmail.com","userPassword":"123456","deviceId":"1bdf507226da590","deviceType":"Android","token_no":"eQwU93l1NZY:APA91bERXlSyqRzuxyusH8fhhh5qYCcEoJV6LE8xUH80lboI2g6lS8nd1Hrk__r0kNLHZzPKNp7qEQ3HrlEcN5Ty4R5Fvyll5cLsWaBVbuasiZC9X90dB2WY0hiIZ5jLR2PzhYAhjwFa"}
+
+Wed Sep 11 2019 11.00 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","deviceId":"1bdf507226da590","deviceType":"Android"}
+
+Wed Sep 11 2019 11.00 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 11.00 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d689929e8f10"}
+
+Wed Sep 11 2019 11.00 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d689929e8f10"}
+
+Wed Sep 11 2019 11.01 AM >> APP - user - getnotificationlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o2S1VNQVI=","sectionId":"TUFOT0oxNEtVTUFS"}
+
+Wed Sep 11 2019 11.02 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 11.02 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o2S1VNQVI=","sectionId":"TUFOT0oxNEtVTUFS"}
+
+Wed Sep 11 2019 11.03 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o2S1VNQVI=","sectionId":"TUFOT0oxNEtVTUFS"}
+
+Wed Sep 11 2019 11.03 AM >> APP - user - getprofiledata >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 11.04 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0o2S1VNQVI=","sectionId":"TUFOT0oxNEtVTUFS"}
+
+Wed Sep 11 2019 11.04 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","userFName":"Alpona","userPhone":"","userEmail":"gn083@gmail.com","userAddress":"","userMName":"xyz","userLName":"Singh","userLocality":"Sector 62","userCity":"Noida","userState":"UP","userZipcode":"201309"}
+
+Wed Sep 11 2019 11.04 AM >> APP - user - getnoticeboardlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"","sectionId":""}
+
+Wed Sep 11 2019 11.05 AM >> APP - user - getprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg=="}
+
+Wed Sep 11 2019 11.06 AM >> APP - user - getbusroute >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","schoolid":"TUFOT0oxOEtVTUFS"}
+
+Wed Sep 11 2019 11.07 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 11.07 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 11.07 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 11.07 AM >> APP - user - getprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg=="}
+
+Wed Sep 11 2019 11.08 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.08 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.08 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - updateprofiledata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","userFName":"Nimai  Charan  Mishra","userMName":"Nimai  Charan  Mishra","userLName":"Nimai  Charan  Mishra","userEmail":"abc@gmail.com","userPhone":"","userAddress":"Jss Campus","userLocality":", ","userCity":", ","userState":", ","userZipcode":"201301"}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.09 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.10 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.11 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.11 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.11 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.12 AM >> APP - teacher - getstudentattendancehistorylist >> {"studentquniqueID":"5d689929e8f10"}
+
+Wed Sep 11 2019 11.12 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d689929e8f10"}
+
+Wed Sep 11 2019 11.13 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 11.13 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 11.14 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Parent","userId":"TUFOT0ozOTJLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.15 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"abc@gmail.com","userPassword":"123456","deviceId":"ae202642ac1e41f0","deviceType":"Android","token_no":"dHnPbriRH3I:APA91bF2kw1AnGVTlKgmLCFJQADbVDHpV12eEGbu8Ex9o74eHzrUUAyw0x3-NIDa3vyKvIrcyw5I7mK945DtQLgUTM2NPfs75HPTmb7Nxbq7EdBRZubShCTa1M9m504prd2DDui0n3XS"}
+
+Wed Sep 11 2019 11.16 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 11.16 AM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 11.16 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"gn083@gmail.com","userPassword":"123456","deviceId":"ae202642ac1e41f0","deviceType":"Android","token_no":"dHnPbriRH3I:APA91bF2kw1AnGVTlKgmLCFJQADbVDHpV12eEGbu8Ex9o74eHzrUUAyw0x3-NIDa3vyKvIrcyw5I7mK945DtQLgUTM2NPfs75HPTmb7Nxbq7EdBRZubShCTa1M9m504prd2DDui0n3XS"}
+
+Wed Sep 11 2019 11.16 AM >> APP - teacher - getownattendance >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-11","toDate":"2019-09-11"}
+
+Wed Sep 11 2019 11.16 AM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","deviceId":"ae202642ac1e41f0","deviceType":"Android"}
+
+Wed Sep 11 2019 11.16 AM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Wed Sep 11 2019 11.16 AM >> APP - user - getcalenderdata >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.17 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","messageType":"received"}
+
+Wed Sep 11 2019 11.18 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 11.18 AM >> APP - teacher - getclasslist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+
+Wed Sep 11 2019 11.18 AM >> APP - user - getStudentSubjectList >> {"user_id":"5d689929e8f10"}
+
+Wed Sep 11 2019 11.18 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","messageType":"received"}
+
+Wed Sep 11 2019 11.18 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","messageType":"received"}
+
+Wed Sep 11 2019 11.20 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Parent","userId":"5d689929e8f10","boardId":"TUFOT0oxS1VNQVI=","messageType":"sent"}
+
+Wed Sep 11 2019 11.21 AM >> APP - teacher - getmessagelist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","messageType":"received"}
+
+Wed Sep 11 2019 11.26 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 11.27 AM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 12.00 PM >> APP - teacher - getownstudentlist >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0o0NUtVTUFS"}
+
+Wed Sep 11 2019 12.00 PM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 12.11 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 12.11 PM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 12.12 PM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"gn083@gmail.com","userPassword":"123456","deviceId":"ae202642ac1e41f0","deviceType":"Android","token_no":"dHnPbriRH3I:APA91bF2kw1AnGVTlKgmLCFJQADbVDHpV12eEGbu8Ex9o74eHzrUUAyw0x3-NIDa3vyKvIrcyw5I7mK945DtQLgUTM2NPfs75HPTmb7Nxbq7EdBRZubShCTa1M9m504prd2DDui0n3XS"}
+
+Wed Sep 11 2019 12.12 PM >> APP - teacher - getownattendance >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-11","toDate":"2019-09-11"}
+
+Wed Sep 11 2019 12.12 PM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","deviceId":"ae202642ac1e41f0","deviceType":"Android"}
+
+Wed Sep 11 2019 12.12 PM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Wed Sep 11 2019 12.34 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 12.38 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Sep 11 2019 12.45 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 12.45 PM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 12.54 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps08"}
+
+Wed Sep 11 2019 12.54 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps06"}
+
+Wed Sep 11 2019 12.54 PM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Wed Sep 11 2019 12.54 PM >> APP - user - getlogintype >> []
+
+Wed Sep 11 2019 12.55 PM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"gn083@gmail.com","userPassword":"123456","deviceId":"1bdf507226da590","deviceType":"Android","token_no":"dUGO9Kq-_l0:APA91bF8QwdfKhNtKJTU6I26FKe6OwwzM6KsKnYXIoqIXw6X3xFfq2fPfoGXU7Rwmw-Co8eenu1KkFoM1dAIDl6vtQQGz7DmlKe1YCJbvoThkzF1fUOsFmk0Cz7-Q_IxO0ZKbaFYHpoP"}
+
+Wed Sep 11 2019 12.55 PM >> APP - teacher - getownattendance >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","fromDate":"2019-09-11","toDate":"2019-09-11"}
+
+Wed Sep 11 2019 12.55 PM >> APP - user - updatedeviceid >> {"branchCode":"gnps01","userType":"Teacher","userId":"TUFOT0o1OTZLVU1BUg==","deviceId":"1bdf507226da590","deviceType":"Android"}
+
+Wed Sep 11 2019 12.55 PM >> APP - user - getdashboarddata >> {"userType":"Teacher"}
+
+Wed Sep 11 2019 01.39 PM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 01.39 PM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 01.39 PM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 01.40 PM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0oxOEtVTUFS","branch_id":"TUFOT0oxOUtVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0o1OTZLVU1BUg=="}
+
+Wed Sep 11 2019 08.47 PM >> APP - user - checkbranchcode >> {"branchCode":"u"}
+

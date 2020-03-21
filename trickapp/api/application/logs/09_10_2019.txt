@@ -1,0 +1,8 @@
+Wed Oct 09 2019 06.43 AM >> APP - teacher - sethomework >> []
+
+Wed Oct 09 2019 09.38 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Wed Oct 09 2019 11.58 AM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o3NzNLVU1BUg==","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-10-09","time":"17:28:58"}
+
+Wed Oct 09 2019 11.59 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0o3NzNLVU1BUg==","boardId":"TUFOT0oxS1VNQVI="}
+

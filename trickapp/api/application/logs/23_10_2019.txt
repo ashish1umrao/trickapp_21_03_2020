@@ -1,0 +1,36 @@
+Wed Oct 23 2019 06.23 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01 "}
+
+Wed Oct 23 2019 06.23 AM >> APP - user - getlogintype >> []
+
+Wed Oct 23 2019 11.05 AM >> APP - user - checkbranchcode >> {"branchCode":"Malapoa College"}
+
+Wed Oct 23 2019 11.05 AM >> APP - user - checkbranchcode >> {"branchCode":"Sunshine Harvester"}
+
+Wed Oct 23 2019 11.05 AM >> APP - user - checkbranchcode >> {"branchCode":"Cambridge Junior"}
+
+Wed Oct 23 2019 11.06 AM >> APP - user - checkbranchcode >> {"branchCode":"Univetsity of the South Pacific"}
+
+Wed Oct 23 2019 11.06 AM >> APP - user - checkbranchcode >> {"branchCode":"240097"}
+
+Wed Oct 23 2019 02.31 PM >> APP - user - checkbranchcode >> {"branchCode":"???????"}
+
+Wed Oct 23 2019 02.32 PM >> APP - user - checkbranchcode >> {"branchCode":"???? ???? ??? "}
+
+Wed Oct 23 2019 02.32 PM >> APP - user - checkbranchcode >> {"branchCode":"???? ???? ??? "}
+
+Wed Oct 23 2019 02.32 PM >> APP - user - checkbranchcode >> {"branchCode":"???? ???? ??? "}
+
+Wed Oct 23 2019 02.33 PM >> APP - user - checkbranchcode >> {"branchCode":"Svsvsghd"}
+
+Wed Oct 23 2019 02.33 PM >> APP - user - checkbranchcode >> {"branchCode":"Svsvsghd"}
+
+Wed Oct 23 2019 03.03 PM >> APP - user - checkbranchcode >> {"branchCode":"03043773230"}
+
+Wed Oct 23 2019 03.03 PM >> APP - user - checkbranchcode >> {"branchCode":"sajid"}
+
+Wed Oct 23 2019 11.57 PM >> APP - user - checkbranchcode >> {"branchCode":"bagi"}
+
+Wed Oct 23 2019 11.57 PM >> APP - user - checkbranchcode >> {"branchCode":"bagi"}
+
+Wed Oct 23 2019 11.57 PM >> APP - user - checkbranchcode >> {"branchCode":"baging"}
+

@@ -1,0 +1,20 @@
+Tue Oct 22 2019 08.27 AM >> APP - user - checkbranchcode >> {"branchCode":" shafear"}
+
+Tue Oct 22 2019 08.28 AM >> APP - user - checkbranchcode >> {"branchCode":"01855215075"}
+
+Tue Oct 22 2019 02.48 PM >> APP - user - checkbranchcode >> {"branchCode":"Ousmane"}
+
+Tue Oct 22 2019 02.48 PM >> APP - user - checkbranchcode >> {"branchCode":"Ousmane"}
+
+Tue Oct 22 2019 02.48 PM >> APP - user - checkbranchcode >> {"branchCode":"Cpe 1"}
+
+Tue Oct 22 2019 05.56 PM >> APP - user - checkbranchcode >> {"branchCode":"Arpit56852017"}
+
+Tue Oct 22 2019 05.57 PM >> APP - user - checkbranchcode >> {"branchCode":"Arpit56852017"}
+
+Tue Oct 22 2019 10.20 PM >> APP - user - checkbranchcode >> {"branchCode":"cole"}
+
+Tue Oct 22 2019 10.20 PM >> APP - user - checkbranchcode >> {"branchCode":"monsque"}
+
+Tue Oct 22 2019 10.21 PM >> APP - user - checkbranchcode >> {"branchCode":"a l'cole"}
+

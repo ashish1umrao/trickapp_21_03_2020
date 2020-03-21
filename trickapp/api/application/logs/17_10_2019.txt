@@ -1,0 +1,42 @@
+Thu Oct 17 2019 05.03 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Oct 17 2019 05.03 AM >> APP - user - getlogintype >> []
+
+Thu Oct 17 2019 05.04 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"+919938108941","userPassword":"17051976","deviceId":"ea58420f1b5a0db1","deviceType":"Android","token_no":"e_22xCcWCCc:APA91bEUxg1Q2buP9YJ3vMTCC2XZzTy0OMO0oYLX5yQSnD5sef1FUiiRdv0_dJG8nx9Uk591s9Wz2pwdOABOiIn9k8E6aJj5BPej99xf8rEGMJcA2i0zlB6HtqY1-yVnJ1jJ4L_NqFG-"}
+
+Thu Oct 17 2019 05.05 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Oct 17 2019 05.05 AM >> APP - user - getlogintype >> []
+
+Thu Oct 17 2019 05.08 AM >> APP - user - checkbranchcode >> {"branchCode":"gnps01"}
+
+Thu Oct 17 2019 05.08 AM >> APP - user - getlogintype >> []
+
+Thu Oct 17 2019 05.08 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Parent","userContact":"7751009100","userPassword":"198026","deviceId":"3233e13b8e5e779f","deviceType":"Android","token_no":"f5rcTM8bi28:APA91bHOz-qWkuh0eSnuM4KG95Wpjp9eRWFg3AxqOSpcyM8RRMSFAXtHkljmY-39UzPu-aktMpvSY35kqJr8MKRyaeIALIm9LamEmRC8gdwRmWKJKW-rIx5_AGFyc6Tm9kXceEMW1rYd"}
+
+Thu Oct 17 2019 05.10 AM >> APP - user - userauthenticateOnline >> {"branchCode":"gnps01","userType":"Teacher","userContact":"9438529780","userPassword":"9438529780","deviceId":"3233e13b8e5e779f","deviceType":"Android","token_no":"f5rcTM8bi28:APA91bHOz-qWkuh0eSnuM4KG95Wpjp9eRWFg3AxqOSpcyM8RRMSFAXtHkljmY-39UzPu-aktMpvSY35kqJr8MKRyaeIALIm9LamEmRC8gdwRmWKJKW-rIx5_AGFyc6Tm9kXceEMW1rYd"}
+
+Thu Oct 17 2019 08.47 AM >> APP - user - checkbranchcode >> {"branchCode":"guru nanak public school sambalpur "}
+
+Thu Oct 17 2019 08.48 AM >> APP - user - checkbranchcode >> {"branchCode":"768016"}
+
+Thu Oct 17 2019 08.56 AM >> APP - user - checkbranchcode >> {"branchCode":"9040511462"}
+
+Thu Oct 17 2019 10.03 AM >> APP - user - checkbranchcode >> {"branchCode":"dinesh"}
+
+Thu Oct 17 2019 10.03 AM >> APP - user - checkbranchcode >> {"branchCode":"dinesh"}
+
+Thu Oct 17 2019 10.03 AM >> APP - user - checkbranchcode >> {"branchCode":"1234"}
+
+Thu Oct 17 2019 10.04 AM >> APP - user - checkbranchcode >> {"branchCode":"a"}
+
+Thu Oct 17 2019 10.04 AM >> APP - user - checkbranchcode >> {"branchCode":"school "}
+
+Thu Oct 17 2019 02.15 PM >> APP - user - checkbranchcode >> {"branchCode":"????"}
+
+Thu Oct 17 2019 02.15 PM >> APP - user - checkbranchcode >> {"branchCode":"????"}
+
+Thu Oct 17 2019 02.15 PM >> APP - user - checkbranchcode >> {"branchCode":"??????????????????"}
+
+Thu Oct 17 2019 10.05 PM >> APP - user - checkbranchcode >> {"branchCode":"daus"}
+

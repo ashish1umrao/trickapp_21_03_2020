@@ -1,0 +1,18 @@
+Mon Oct 07 2019 02.12 AM >> APP - user - checkbranchcode >> {"branchCode":"Mubin"}
+
+Mon Oct 07 2019 04.11 AM >> APP - user - checkbranchcode >> {"branchCode":"test01"}
+
+Mon Oct 07 2019 04.11 AM >> APP - user - getlogintype >> []
+
+Mon Oct 07 2019 04.11 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"7906703537","userPassword":"1234","deviceId":"b0615f3da1a0c252","deviceType":"Android","token_no":"c6xmrGTW56U:APA91bG4dpkky9ewWDt-TOHDelvxA9eHwcncMTseEbGa7yrN330KIMLEVmyd_flEElrPgeUrQ32PaG0K1tid8QWD38gIb2NglfwE52q7R3Dk2llYRTPmjmJ-OXLBuSnKA1yh0vX_z7fc"}
+
+Mon Oct 07 2019 04.11 AM >> APP - user - userauthenticateOnline >> {"branchCode":"test01","userType":"Parent","userContact":"8439503630","userPassword":"1234","deviceId":"b0615f3da1a0c252","deviceType":"Android","token_no":"c6xmrGTW56U:APA91bG4dpkky9ewWDt-TOHDelvxA9eHwcncMTseEbGa7yrN330KIMLEVmyd_flEElrPgeUrQ32PaG0K1tid8QWD38gIb2NglfwE52q7R3Dk2llYRTPmjmJ-OXLBuSnKA1yh0vX_z7fc"}
+
+Mon Oct 07 2019 04.11 AM >> APP - user - updatedeviceid >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","deviceId":"b0615f3da1a0c252","deviceType":"Android"}
+
+Mon Oct 07 2019 04.11 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Mon Oct 07 2019 04.11 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Mon Oct 07 2019 12.36 PM >> APP - teacher - sethomework >> []
+

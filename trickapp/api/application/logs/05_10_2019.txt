@@ -1,0 +1,114 @@
+Sat Oct 05 2019 06.41 AM >> APP - teacher - sethomework >> []
+
+Sat Oct 05 2019 09.16 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.23 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.26 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.32 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.33 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.34 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.38 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 09.55 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 10.01 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 10.15 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 10.43 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 10.44 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 10.58 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 10.58 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 10.59 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 10.59 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 10.59 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 11.00 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 11.03 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 11.04 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 12.04 PM >> APP - user - getcalenderdata >> []
+
+Sat Oct 05 2019 12.07 PM >> APP - user - userAuthenticateOnline >> {"branchCode":"test01","userType":"Teacher","userContact":"8630028303","userPassword":"123456","deviceId":"6105a6e0429ba69b","deviceType":"Andriod","token_no":"222222333"}
+
+Sat Oct 05 2019 12.08 PM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0oxS1VNQVI=","startDate":"2019-10-05","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 12.09 PM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","startDate":"2019-10-05","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 12.16 PM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","startDate":"2019-10-05","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 12.17 PM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","startDate":"2019-10-05","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 12.32 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.36 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.37 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.39 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.44 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.47 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.49 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.51 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.55 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 12.57 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.02 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.04 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.04 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.05 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.08 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.10 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.10 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.14 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.16 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.17 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.34 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.38 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.38 PM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 01.40 PM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 05 2019 01.41 PM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Parent","userId":"TUFOT0ozNjBLVU1BUg==","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 05 2019 06.19 PM >> APP - teacher - setassignment >> []
+
+Sat Oct 05 2019 11.58 PM >> APP - user - checkbranchcode >> {"branchCode":"Universitas muhamadya"}
+
+Sat Oct 05 2019 11.58 PM >> APP - user - checkbranchcode >> {"branchCode":"Universitas muhamadiyah"}
+
+Sat Oct 05 2019 11.58 PM >> APP - user - checkbranchcode >> {"branchCode":"Universitas muhamadiyah"}
+
+Sat Oct 05 2019 11.58 PM >> APP - user - checkbranchcode >> {"branchCode":"UMS"}
+

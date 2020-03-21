@@ -1,0 +1,10 @@
+Success: “pro.shop.algosoft.co” has been created.
+
+Added the database “proshop”.
+
+You have successfully created a MySQL user named “proshop”.
+
+Password:   O+ia]F^,Q?u)
+
+
+User “proshop” was added to the database “proshop” with the requested privileges.

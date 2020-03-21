@@ -1,0 +1,8 @@
+Fri Nov 01 2019 11.07 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"9178615323","userPassword":"9178615323","deviceId":"","deviceType":"","token_no":""}
+
+Fri Nov 01 2019 11.15 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"9178615323","userPassword":"9178615323","deviceId":"1221231133332313","deviceType":"Android","token_no":"dssdswfergergererw4rr4rrwfewe eff"}
+
+Fri Nov 01 2019 11.15 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"gnps20@gmail.com","userPassword":"9178615323","deviceId":"1221231133332313","deviceType":"Android","token_no":"dssdswfergergererw4rr4rrwfewe eff"}
+
+Fri Nov 01 2019 11.16 AM >> APP - user - userauthenticate >> {"branchCode":"gnps01","userType":"Teacher","userEmail":"gnps20@gmail.com","userPassword":"111111","deviceId":"1221231133332313","deviceType":"Android","token_no":"dssdswfergergererw4rr4rrwfewe eff"}
+

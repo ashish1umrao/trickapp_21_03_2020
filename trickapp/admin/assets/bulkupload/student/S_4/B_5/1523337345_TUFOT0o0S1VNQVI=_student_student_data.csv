@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>404 Page Not Found</title>
+<meta name="description" content="">
+<meta name="keywords" content="">
+<!-- bootstrap-css -->
+<link rel="stylesheet" href="http://localhost/school-orissa/admin/assets/css/bootstrap.min.css" >
+<!-- //bootstrap-css -->
+<!-- Custom CSS -->
+<link href="http://localhost/school-orissa/admin/assets/css/style.css" rel='stylesheet' type='text/css' />
+<link href="http://localhost/school-orissa/admin/assets/css/style-responsive.css" rel="stylesheet"/>
+<!-- font CSS -->
+<!-- font-awesome icons -->
+<link rel="stylesheet" href="http://localhost/school-orissa/admin/assets/css/font.css" type="text/css"/>
+<link href="http://localhost/school-orissa/admin/assets/css/font-awesome.css" rel="stylesheet"> 
+<!-- //font-awesome icons -->
+<script src="http://localhost/school-orissa/admin/assets/js/jquery2.0.3.min.js"></script>
+<script type="text/ecmascript">
+var BASEURL 		=	'http://localhost/school-orissa/admin/';
+var FULLSITEURL 	=	'http://localhost/school-orissa/admin/dav/';
+var CURRENTCLASS 	=	'assets';
+var CURRENTMETHOD 	=	'demo_doc';
+var csrf_api_key	=	'ci_csrf_token';
+var csrf_api_value 	=	''; 
+</script>
+</head>
+<body>
+<header class="header fixed-top clearfix">
+  <div class="brand"> <a href="http://localhost/school-orissa/admin/dav/dashboard" class="logo">DAV</a>
+    <div class="sidebar-toggle-box">
+      <div class="fa fa-bars"></div>
+    </div>
+  </div>
+  <div class="top-nav clearfix">
+  <div class="center">
+            <select name="currentSchoolBranchId" id="currentSchoolBranchId">
+           <option value="">Select branch</option><option value="TUFOT0o0S1VNQVI=_____TUFOT0o2S1VNQVI=" selected="selected">PRATAP VIHAR</option><option value="TUFOT0o0S1VNQVI=_____TUFOT0o1S1VNQVI=" >Sarla chopra</option>         </select>
+       <select name="currentSchoolBranchId" id="currentSchoolBranchBoardId">
+    	<option value="">Select board</option><option value="TUFOT0o0S1VNQVI=" selected="selected">ICSE</option>    </select>
+    <ul class="nav pull-right top-menu">
+      <li class="dropdown"> <a data-toggle="dropdown" class="dropdown-toggle" href="javascript:void(0);">&nbsp;&nbsp;<span class="username">Welcome DAV</span> <b class="caret"></b> </a>
+        <ul class="dropdown-menu extended logout">
+          <li><a href="http://localhost/school-orissa/admin/dav/profile/index"><i class=" fa fa-suitcase"></i>Profile</a></li>
+          <li><a href="http://localhost/school-orissa/admin/logout"><i class="fa fa-key"></i> Log Out</a></li>
+        </ul>
+      </li>
+    </ul>
+    </div>
+  </div>
+</header>
+<script>
+$(document).on("change","#currentFranchisingId",function(){var n=$(this).val();""!=n&&$.ajax({type:"post",url:BASEURL+"login/set_cureent_franchise",data:{franchiseId:n},success:function(n){"SUCCESS"==n&&location.reload()}})});
+$(document).on("change","#currentSchoolBranchId",function(){var c=$(this).val();""!=c&&$.ajax({type:"post",url:BASEURL+"login/set_cureent_school_branch",data:{currentSBId:c},success:function(c){"SUCCESS"==c&&location.reload()}})});
+$(document).on("change","#currentSchoolBranchBoardId",function(){var o=$(this).val();""!=o&&$.ajax({type:"post",url:BASEURL+"login/set_cureent_board",data:{currentBoardId:o},success:function(o){"SUCCESS"==o&&location.reload()}})});
+$(document).ready(function(){
+});
+</script> <aside>
+  <div id="sidebar" class="nav-collapse ">
+    <div class="leftside-navigation">
+      <ul class="sidebar-menu" id="nav-accordion">
+        <li> <a href="http://localhost/school-orissa/admin/dav/dashboard"> <i class="fa fa-dashboard"></i> <span>Dashboard</span> </a> </li>
+                  <li><a href="http://localhost/school-orissa/admin/dav/branch/index"><i aria-hidden="true" class="fa fa-users"></i>&nbsp;&nbsp;Manage branch</a></li>
+                  <li> <a href="javascript:void(0);"><i aria-hidden="true" class="fa fa-users"></i>&nbsp;&nbsp;Manage sub-admin<span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+              <li><a href="http://localhost/school-orissa/admin/dav/designation/index"><i class="fa fa-circle-o"></i>Designation</a></li>
+              <li><a href="http://localhost/school-orissa/admin/dav/subadmin/index"><i class="fa fa-circle-o"></i>Sub-admin List</a></li>
+            </ul>
+          </li>
+                 		   <li> <a href="javascript:void(0);"> <i class="fa fa-product-hunt" aria-hidden="true"></i>&nbsp;&nbsp;Manage subjects <span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+		   			  <li><a href="http://localhost/school-orissa/admin/dav/subjecthead/index"><i class="fa fa-circle-o"></i> Subject head</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/subjectlist/index"><i class="fa fa-circle-o"></i> Subject list</a></li>
+		  			</ul>
+		  </li>
+		  		  		   <li> <a href="javascript:void(0);"> <i aria-hidden="true" class="fa fa-institution"></i>&nbsp;&nbsp;Manage Teachers <span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+		   			  <li><a href="http://localhost/school-orissa/admin/dav/teacherlist/index"><i class="fa fa-circle-o"></i> Teacher list</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/techerdevprogram/index"><i class="fa fa-circle-o"></i> Development programs</a></li>
+		  			</ul>
+		  </li>
+		  		  		   <li> <a href="javascript:void(0);"> <i class="fa fa-product-hunt" aria-hidden="true"></i>&nbsp;&nbsp;Manage classes <span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+		   			  <li><a href="http://localhost/school-orissa/admin/dav/workingdays/index"><i class="fa fa-circle-o"></i> Working days</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/sessionmonth/index"><i class="fa fa-circle-o"></i> Session start month</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/classlist/index"><i class="fa fa-circle-o"></i> Class list</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/sectionlist/index"><i class="fa fa-circle-o"></i> Section list</a></li>
+		  			</ul>
+		  </li>
+		  		  		   <li> <a href="javascript:void(0);"> <i class="fa fa-product-hunt" aria-hidden="true"></i>&nbsp;&nbsp;Manage students <span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+		   			  <li><a href="http://localhost/school-orissa/admin/dav/studentlist/index"><i class="fa fa-circle-o"></i> Student personal</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/studentqrimage/index"><i class="fa fa-circle-o"></i> Download Student QR Code</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/studentbulkupload/index"><i class="fa fa-circle-o"></i> Bulk Upload</a></li>
+		  			</ul>
+		  </li>
+		  		  		  <li><a href="http://localhost/school-orissa/admin/dav/nonteachinglist/index"><i class="fa fa-product-hunt" aria-hidden="true"></i>&nbsp;&nbsp;Manage non teaching staff</a></li>
+		  		  		   <li> <a href="javascript:void(0);"> <i class="fa fa-product-hunt" aria-hidden="true"></i>&nbsp;&nbsp;Manage Attendance <span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+		   			  <li><a href="http://localhost/school-orissa/admin/dav/teachattendance/index"><i class="fa fa-circle-o"></i> Teacher Attendance</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/staffattendance/index"><i class="fa fa-circle-o"></i> Non teaching staff Attendance</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/studattendance/index"><i class="fa fa-circle-o"></i> Student Attendance</a></li>
+		  			</ul>
+		  </li>
+		  		  		  <li><a href="http://localhost/school-orissa/admin/dav/visitorlist/index"><i class="fa fa-product-hunt" aria-hidden="true"></i>&nbsp;&nbsp;Manage visitor</a></li>
+		  		  		   <li> <a href="javascript:void(0);"> <i class="fa fa-credit-card" aria-hidden="true"></i>&nbsp;&nbsp;Manage transposrt <span class="fa arrow"></span> </a>
+			<ul class="nav nav-second-level">
+		   			  <li><a href="http://localhost/school-orissa/admin/dav/vehiclelist/index"><i class="fa fa-circle-o"></i> Vehicle list</a></li>
+		  			  <li><a href="http://localhost/school-orissa/admin/dav/routelist/index"><i class="fa fa-circle-o"></i> Route list</a></li>
+		  			</ul>
+		  </li>
+		  		        </ul>
+    </div>
+  </div>
+</aside>
+<section id="main-content" class="">
+  <section class="wrapper"> <img src="http://localhost/school-orissa/admin/assets/images/404.png" alt="404 Page Not Found" />
+<div class="clearfix"> </div>
+ </section>
+  <!-- footer -->
+<div class="footer">
+  <div class="wthree-copyright">
+    <p>© 2018 school orissa. All rights reserved | Design by <a href="http://www.algosoft.co/" target="_blank">algosoft</a></p>
+  </div>
+</div>
+<!-- / footer -->
+
+<!-- Alert Message Modal -->
+<div class="modal fade" id="alertMessageModal" role="dialog">
+  <div class="modal-dialog modal-md">
+    <div class="modal-content">
+      <button type="button" class="close close-view" data-dismiss="modal">×</button>
+      <div class="modal-body newspop">
+        <span class="message-detail-data msg-text">&nbsp;</span> 
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Message Modal -->
+<div class="modal fade" id="myViewDetailsModal" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button type="button" class="close close-view" data-dismiss="modal">×</button>
+      <div class="modal-body newspop">
+        <table class="table table-bordered table-striped">
+          <tr class="info">
+            <td><span class="view-detail-title">&nbsp;</span></td>
+          </tr>
+        </table>
+        <span class="view-detail-data">&nbsp;</span> 
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- Message Modal -->
+<div class="modal fade" id="myViewSubDetailsModal" role="dialog">
+  <div class="modal-dialog">
+    <div class="modal-content">
+      <button type="button" class="close close-view" data-dismiss="modal">×</button>
+      <div class="modal-body newspop popshadow">
+        <table class="table table-bordered table-striped">
+          <tr class="info">
+            <td><span class="view-detail-title">&nbsp;</span></td>
+          </tr>
+        </table>
+        <span class="view-detail-data">&nbsp;</span> 
+      </div>
+    </div>
+  </div>
+</div>
+
+ </section>
+<script src="http://localhost/school-orissa/admin/assets/js/bootstrap.js"></script>
+<script src="http://localhost/school-orissa/admin/assets/js/jquery.dcjqaccordion.2.7.js"></script>
+<script src="http://localhost/school-orissa/admin/assets/js/scripts.js"></script>
+<script src="http://localhost/school-orissa/admin/assets/js/jquery.slimscroll.js"></script>
+<script src="http://localhost/school-orissa/admin/assets/js/jquery.nicescroll.js"></script>
+<script src="http://localhost/school-orissa/admin/assets/js/jquery.scrollTo.js"></script>
+<script type="text/javascript" src="http://localhost/school-orissa/admin/assets/js/jquery.validate.js"></script>
+<script type="text/javascript" src="http://localhost/school-orissa/admin/assets/js/ajaxupload.js"></script>
+<script type="text/javascript" src="http://localhost/school-orissa/admin/assets/js/manoj-plugin.js"></script>
+
+<script src="http://localhost/school-orissa/admin/assets/js/ckeditor/ckeditor.js" type="text/javascript"></script>
+<script type="text/javascript">
+function create_editor_for_textarea(textareaid)
+{	
+	if (document.getElementById(textareaid)) {
+		// Replace the <textarea id="Description"> with a CKEditor
+		// instance, using default configuration.
+		CKEDITOR.replace(textareaid, {filebrowserBrowseUrl :'http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/browser/default/browser.html?Connector=http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/connectors/php/connector.php',
+		filebrowserImageBrowseUrl : 'http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/browser/default/browser.html?Type=Image&Connector=http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/connectors/php/connector.php',
+		filebrowserFlashBrowseUrl :'http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/browser/default/browser.html?Type=Flash&Connector=http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/connectors/php/connector.php',
+		filebrowserUploadUrl :'http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/connectors/php/upload.php?Type=File',
+		filebrowserImageUploadUrl : 'http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/connectors/php/upload.php?Type=Image',
+		filebrowserFlashUploadUrl : 'http://localhost/school-orissa/admin/assets/js/ckeditor/filemanager/connectors/php/upload.php?Type=Flash',
+		allowedContent:true,
+		height: '400px',
+		toolbar: [
+				{ name: 'document', items: [ 'Source', '-', 'NewPage', 'Preview', '-', 'Templates' ] },	// Defines toolbar group with name (used to create voice label) and items in 3 subgroups.
+				[ 'Cut', 'Copy', 'Paste', 'PasteText', 'PasteFromWord', '-', 'Undo', 'Redo' ],			// Defines toolbar group without name.
+				{ name: 'basicstyles', items: [ 'Bold', 'Italic' ] }
+			]
+		});	
+	}
+};
+</script>
+</body>
+</html>

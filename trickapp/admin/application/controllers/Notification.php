@@ -1,0 +1,206 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+class Notification extends CI_Controller {
+
+	public function  __construct()  
+	{ 
+		parent:: __construct();
+		$this->load->helper(array('form','url','html','path','form','cookie'));
+		$this->load->library(array('email','session','form_validation','pagination','parser','encrypt'));
+		error_reporting(E_ALL ^ E_NOTICE);  
+		$this->load->library("layouts");
+		$this->load->model(array('admin_model','common_model','emailtemplate_model','sms_model'));
+		$this->load->helper('language');
+		$this->lang->load('statictext', 'admin');
+	} 
+	
+	/* * *********************************************************************
+	 * * Function name : sms_notification
+	 * * Developed By : Manoj Kumar
+	 * * Purpose  : This function used for sms_notification
+	 * * Date : 14 DECEMBER 2018
+	 * * **********************************************************************/
+	public function index()
+	{	
+		$this->admin_model->authCheck('admin','view_data');
+		$this->admin_model->get_permission_type($data);
+		$data['error'] 						= 	'';
+		
+		if($this->input->get('searchValue')):
+			$sValue							=	$this->input->get('searchValue');
+			$whereCon['like']		 		= 	"(sms_notification.title LIKE '%".$sValue."%' 
+												  OR sms_notification.current_year LIKE '%".$sValue."%')";
+			$data['searchValue'] 			= 	$sValue;
+		else:
+			$whereCon['like']		 		= 	"";
+			$data['searchValue'] 			= 	'';
+		endif;
+		
+		$whereCon['where']		 			= 	"sms_notification.franchise_id = '".$this->session->userdata('SMS_ADMIN_FRANCHISE_ID')."' 
+												 AND sms_notification.school_id = '".$this->session->userdata('SMS_ADMIN_SCHOOL_ID')."' 
+												 AND sms_notification.branch_id = '".$this->session->userdata('SMS_ADMIN_BRANCH_ID')."'";		
+		$shortField 						= 	'UNIX_TIMESTAMP(sms_notification.creation_date) DESC';
+		
+		$this->load->library('pagination');
+		$config['base_url'] 				= 	$this->session->userdata('SMS_ADMIN_PATH').$this->router->fetch_class().'/index';
+		$this->session->set_userdata('sms_notificationAdminData',currentFullUrl());
+		$qStringdata						=	explode('?',currentFullUrl());
+		$config['suffix']					= 	$qStringdata[1]?'?'.$qStringdata[1]:'';
+		$tblName 							= 	'sms_notification as sms_notification';
+		$con 								= 	'';
+		$config['total_rows'] 				= 	$this->admin_model->SelectNotificationData('count',$tblName,$whereCon,$shortField,'0','0');
+		
+		if($this->input->get('showLength') == 'All'):
+			$config['per_page']	 			= 	$config['total_rows'];
+			$data['perpage'] 				= 	$this->input->get('showLength');  
+		elseif($this->input->get('showLength')):
+			$config['per_page']	 			= 	$this->input->get('showLength'); 
+			$data['perpage'] 				= 	$this->input->get('showLength'); 
+		else:
+			$config['per_page']	 			= 	SHOW_NO_OF_DATA;
+			$data['perpage'] 				= 	SHOW_NO_OF_DATA; 
+		endif;
+		
+		$config['uri_segment'] = getUrlSegment();
+       $this->pagination->initialize($config);
+
+       if ($this->uri->segment(getUrlSegment())):
+           $page = $this->uri->segment(getUrlSegment());
+       else:
+           $page = 0;
+       endif;
+		
+		$data['forAction'] 					= 	$config['base_url']; 
+		if($config['total_rows']):
+			$first							=	($page)+1;
+			$data['first']					=	$first;
+			$last							=	(($page)+$data['perpage'])>$config['total_rows']?$config['total_rows']:(($page)+$data['perpage']);
+			$data['noOfContent']			=	'Showing '.$first.'-'.$last.' of '.$config['total_rows'].' items';
+		else:
+			$data['first']					=	1;
+			$data['noOfContent']			=	'';
+		endif;
+		
+		$data['ALLDATA'] 					= 	$this->admin_model->SelectNotificationData('data',$tblName,$whereCon,$shortField,$config['per_page'],$page); 
+	//	print "<pre>"; print_r($data['ALLDATA']); die;
+             
+		$this->layouts->set_title('Manage sms_notification details');
+		$this->layouts->admin_view('notification/index',array(),$data);
+	}	// END OF FUNCTION
+	
+	/* * *********************************************************************
+	 * * Function name : addeditdata
+	 * * Developed By : Manoj Kumar
+	 * * Purpose  : This function used for add edit data
+	 * * Date : 14 DECEMBER 2018
+	 * * **********************************************************************/
+	public function addeditdata($editid='')
+	{		
+		$data['error'] 				= 	'';
+		
+		if($editid):
+			$this->admin_model->authCheck('admin','edit_data');
+			$data['EDITDATA']		=	$this->common_model->get_data_by_encryptId('sms_notification',$editid);
+		else:
+			$this->admin_model->authCheck('admin','add_data');
+		endif;
+		
+		if($this->input->post('SaveChanges')):
+			$error					=	'NO';
+			$this->form_validation->set_rules('title', 'Title', 'trim|required');
+			$this->form_validation->set_rules('message', 'Content', 'trim|required');			
+			
+			if($this->form_validation->run() && $error == 'NO'):   
+			
+				$param['title']		= 	addslashes($this->input->post('title'));
+				$param['message']	= 	addslashes($this->input->post('message'));
+			
+				
+				if($this->input->post('CurrentDataID') ==''):
+					$param['franchise_id']		=	$this->session->userdata('SMS_ADMIN_FRANCHISE_ID');
+					$param['school_id']			=	$this->session->userdata('SMS_ADMIN_SCHOOL_ID');
+					$param['branch_id']			=	$this->session->userdata('SMS_ADMIN_BRANCH_ID');	
+					$param['board_id']			=	$this->session->userdata('SMS_ADMIN_BOARD_ID');	
+					$param['creation_date']		=	currentDateTime();
+					$param['created_by']		=	$this->session->userdata('SMS_ADMIN_ID');
+					$param['status']			=	'Y';
+                    $param['session_year']		=	CURRENT_SESSION;
+					$alastInsertId				=	$this->common_model->add_data('sms_notification',$param);
+					
+					$Uparam['encrypt_id']		=	manojEncript($alastInsertId);
+					$Uwhere['notification_id']			=	$alastInsertId;
+					$this->common_model->edit_data_by_multiple_cond('sms_notification',$Uparam,$Uwhere);
+					$this->session->set_flashdata('alert_success',lang('addsuccess'));
+				else:
+					$sms_notificationId						=	$this->input->post('CurrentDataID');
+					$param['update_date']		=	currentDateTime();
+					$param['updated_by']		=	$this->session->userdata('SMS_ADMIN_ID');
+					//print "<pre>"; print_r($param); die;
+					$this->common_model->edit_data('sms_notification',$param,$sms_notificationId);
+					$this->session->set_flashdata('alert_success',lang('updatesuccess'));
+				endif;
+				
+				redirect(correctLink('sms_notificationAdminData',$this->session->userdata('SMS_ADMIN_PATH').$this->router->fetch_class().'/index'));
+			endif;
+		endif;
+		
+		$this->layouts->set_title('Edit notification details');
+		$this->layouts->admin_view('notification/addeditdata',array(),$data);
+	}	// END OF FUNCTION	
+	
+	/***********************************************************************
+	** Function name : changestatus
+	** Developed By : Manoj Kumar
+	** Purpose  : This function used for change status
+	** Date : 14 DECEMBER 2018
+	************************************************************************/
+	function changestatus($changeStatusId='',$statusType='')
+	{  
+		$this->admin_model->authCheck('admin','edit_data');
+		
+		$param['status']		=	$statusType;
+		$this->common_model->edit_data('sms_notification',$param,$changeStatusId);
+		
+		$this->session->set_flashdata('alert_success',lang('statussuccess'));
+		
+		redirect(correctLink('sms_notificationAdminData',$this->session->userdata('SMS_ADMIN_PATH').$this->router->fetch_class().'/index'));
+	}
+
+	/* * *********************************************************************
+     * * Function name : uplode_image
+     * * Developed By : Manoj Kumar
+     * * Purpose  : This function used uplode image
+     * * Date : 14 DECEMBER 2018
+     * ********************************************************************** */
+    function uplode_image() {
+        $file_name = $_FILES['uploadfile']['name'];
+        if ($file_name):
+            $tmp_name = $_FILES['uploadfile']['tmp_name'];
+
+            $ext         = pathinfo($file_name);
+            $newfilename = time() . '.' . $ext['extension'];
+            $this->load->library("upload_crop_img");
+            $return_file_name = $this->upload_crop_img->_upload_image($file_name, $tmp_name, 'sms_notificationImage', $newfilename, '');
+            echo $return_file_name; die;
+        else:
+            echo 'UPLODEERROR'; die;
+        endif;
+    } // END OF FUNCTION
+
+    /* * *********************************************************************
+     * * Function name : DeleteCurrentImage
+     * * Developed By : Manoj Kumar
+     * * Purpose  : This function used for delete image by ajax.
+     * * Date : 14 DECEMBER 2018
+     * ********************************************************************** */
+    function DeleteCurrentImage() {
+        $imagename = $this->input->post('imagename');
+        if ($imagename):
+            $this->load->library("upload_crop_img");
+            $return = $this->upload_crop_img->_delete_image($imagename);
+        endif;
+        echo '1';
+        die;
+    } // END OF FUNCTION	
+}

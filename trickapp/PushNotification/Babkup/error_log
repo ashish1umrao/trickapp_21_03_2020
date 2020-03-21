@@ -1,0 +1,4 @@
+[11-Sep-2019 13:22:01 Etc/GMT] PHP Parse error:  syntax error, unexpected ''Message1'' (T_CONSTANT_ENCAPSED_STRING), expecting ')' in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSample.php on line 59
+[11-Sep-2019 13:56:33 Etc/GMT] PHP Notice:  Use of undefined constant CABBEE_API_ACCESS_KEY - assumed 'CABBEE_API_ACCESS_KEY' in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSample.php on line 74
+[11-Sep-2019 13:56:36 Etc/GMT] PHP Notice:  Use of undefined constant CABBEE_API_ACCESS_KEY - assumed 'CABBEE_API_ACCESS_KEY' in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSample.php on line 74
+[11-Sep-2019 13:57:54 Etc/GMT] PHP Notice:  Use of undefined constant CABBEE_API_ACCESS_KEY - assumed 'CABBEE_API_ACCESS_KEY' in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSample.php on line 74

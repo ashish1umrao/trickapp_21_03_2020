@@ -1,0 +1,17 @@
+[21-Oct-2019 20:46:09 Etc/GMT] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:46:49 Etc/GMT] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:47:21 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:47:23 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:47:39 Etc/GMT] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:47:56 Etc/GMT] PHP Parse error:  syntax error, unexpected 'define' (T_STRING) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:48:14 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:48:30 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 20:48:34 Etc/GMT] PHP Parse error:  syntax error, unexpected 'print' (T_PRINT) in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 7
+[21-Oct-2019 21:02:54 Etc/GMT] PHP Notice:  Undefined index: deviceID in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 5
+[21-Oct-2019 21:02:54 Etc/GMT] PHP Notice:  Undefined index: message in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 12
+[21-Oct-2019 21:02:54 Etc/GMT] PHP Notice:  Undefined index: title in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 13
+[21-Oct-2019 21:02:57 Etc/GMT] PHP Notice:  Undefined index: deviceID in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 5
+[21-Oct-2019 21:02:57 Etc/GMT] PHP Notice:  Undefined index: message in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 12
+[21-Oct-2019 21:02:57 Etc/GMT] PHP Notice:  Undefined index: title in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 13
+[21-Oct-2019 21:04:36 Etc/GMT] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 2
+[21-Oct-2019 21:05:42 Etc/GMT] PHP Notice:  Undefined index: deviceID in /home/algosbyu/public_html/trickapp.in/PushNotification/PhpFireBaseNotificationSampleTest.php on line 2

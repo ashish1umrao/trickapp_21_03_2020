@@ -1,0 +1,16 @@
+[10-Oct-2018 05:33:27 Etc/GMT] PHP Fatal error:  Class 'CI_Controller' not found in /home/algoszha/public_html/developed/school-orissa/admin/system/core/CodeIgniter.php on line 369
+[10-Oct-2018 06:13:24 Etc/GMT] PHP Fatal error:  Class 'CI_Controller' not found in /home/algoszha/public_html/developed/school-orissa/admin/system/core/CodeIgniter.php on line 369
+[12-Apr-2019 13:44:22 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/algoszha/public_html/developed/school-orissa/admin/application/models/Admin_model.php on line 52
+[12-Apr-2019 13:45:36 Etc/GMT] PHP Parse error:  syntax error, unexpected 'if' (T_IF) in /home/algoszha/public_html/developed/school-orissa/admin/application/models/Admin_model.php on line 52
+[09-May-2019 04:55:54 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectExamTermData() in /home/algoszha/public_html/developed/school-orissa/admin/application/controllers/Setterm.php on line 49
+[09-May-2019 04:57:10 Etc/GMT] PHP Fatal error:  Call to undefined method Common_model::getDataByQuery() in /home/algoszha/public_html/developed/school-orissa/admin/application/controllers/Setassessment.php on line 85
+[06-Jun-2019 13:26:05 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectNotificationData() in /home/algoszha/public_html/developed/school-orissa/admin/application/controllers/Notification.php on line 52
+[19-Jun-2019 09:36:47 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectteacherLeaverequest() in /home/algoszha/public_html/developed/school-orissa/admin/application/controllers/Teacherleaverequest.php on line 52
+[20-Jun-2019 11:52:16 Etc/GMT] PHP Parse error:  syntax error, unexpected '*', expecting function (T_FUNCTION) in /home/algoszha/public_html/developed/school-orissa/admin/application/models/Admin_model.php on line 1674
+[20-Jun-2019 11:52:30 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectsmstempleteListData() in /home/algoszha/public_html/developed/school-orissa/admin/application/controllers/Adminsendstudentsms.php on line 52
+[21-Sep-2019 10:34:22 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectnoticeboardListData() in /home/algosbyu/public_html/trickapp.in/admin/application/controllers/Admin.php on line 62
+[21-Sep-2019 10:34:29 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectnoticeboardListData() in /home/algosbyu/public_html/trickapp.in/admin/application/controllers/Admin.php on line 62
+[21-Sep-2019 10:34:32 Etc/GMT] PHP Fatal error:  Call to undefined method Admin_model::SelectnoticeboardListData() in /home/algosbyu/public_html/trickapp.in/admin/application/controllers/Admin.php on line 62
+[21-Sep-2019 10:37:44 Etc/GMT] PHP Fatal error:  Call to undefined function currentFullUrl() in /home/algosbyu/public_html/trickapp.in/admin/application/models/Admin_model.php on line 52
+[21-Sep-2019 11:08:21 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file in /home/algosbyu/public_html/trickapp.in/admin/application/models/Admin_model.php on line 251
+[21-Sep-2019 11:08:23 Etc/GMT] PHP Parse error:  syntax error, unexpected end of file, expecting ')' in /home/algosbyu/public_html/trickapp.in/admin/application/models/Admin_model.php on line 1815

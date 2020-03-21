@@ -1,0 +1,16 @@
+Sat Oct 19 2019 12.09 PM >> APP - user - checkbranchcode >> {"branchCode":"09251239904"}
+
+Sat Oct 19 2019 12.09 PM >> APP - user - checkbranchcode >> {"branchCode":"09251239904"}
+
+Sat Oct 19 2019 12.09 PM >> APP - user - checkbranchcode >> {"branchCode":"????"}
+
+Sat Oct 19 2019 03.30 PM >> APP - user - checkbranchcode >> {"branchCode":"naniarchar"}
+
+Sat Oct 19 2019 03.30 PM >> APP - user - checkbranchcode >> {"branchCode":"naniarchar"}
+
+Sat Oct 19 2019 03.37 PM >> APP - user - checkbranchcode >> {"branchCode":"????"}
+
+Sat Oct 19 2019 04.05 PM >> APP - user - checkbranchcode >> {"branchCode":"123456"}
+
+Sat Oct 19 2019 04.05 PM >> APP - user - getlogintype >> []
+

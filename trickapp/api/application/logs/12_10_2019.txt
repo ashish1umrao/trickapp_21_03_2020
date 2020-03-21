@@ -1,0 +1,92 @@
+Sat Oct 12 2019 12.37 AM >> APP - teacher - getownstudentlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.38 AM >> APP - teacher - setstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-10-12","time":"06:07:07","attendanceData":"[{\"5d8b74d14c79d\":\"Absent\"},{\"5d8b74d183388\":\"Present\"},{\"5d8b74d1c04b3\":\"Present\"},{\"5d8b74d12bf11\":\"Absent\"},{\"5d8b74d198b02\":\"Present\"},{\"5d8b74d16b567\":\"Absent\"},{\"5d8b74d192d45\":\"Absent\"},{\"5d8b74d1b6b36\":\"Present\"},{\"5d8b74d147b3e\":\"Present\"},{\"5d8b74d1e2041\":\"Present\"},{\"5d8b74d1a2da5\":\"Present\"},{\"5d8b74d1d7e35\":\"Present\"},{\"5d8b74d212517\":\"Absent\"},{\"5d8b74d137a1c\":\"Absent\"},{\"5d8b74d1c5ddd\":\"Absent\"},{\"5d8b74d1d1791\":\"Absent\"},{\"5d8b74d20a69d\":\"Present\"},{\"5d8b74d1517a4\":\"Present\"},{\"5d8b74d1a7f1c\":\"Absent\"},{\"5d8b74d142a1d\":\"Absent\"},{\"5d8b74d1eead2\":\"Present\"},{\"5d8b74d17995c\":\"Present\"},{\"5d8b74d1607ad\":\"Absent\"},{\"5d8b74d1cbd68\":\"Present\"},{\"5d8b74d1e85ec\":\"Absent\"},{\"5d8b74d13256e\":\"Present\"},{\"5d8b74d13cc61\":\"Present\"},{\"5d8b74d1b18f3\":\"Absent\"},{\"5d8b74d202bc2\":\"Absent\"},{\"5d8b74d174e7e\":\"Absent\"},{\"5d8b74d19da70\":\"Absent\"},{\"5d8b74d166232\":\"Present\"},{\"5d8b74d15b8ba\":\"Present\"},{\"5d8b74d18e0a3\":\"Present\"},{\"5d8b74d1566ee\":\"Absent\"},{\"5d8b74d1aced9\":\"Present\"},{\"5d8b74d1890ef\":\"Absent\"},{\"5d8b74d17e441\":\"Absent\"},{\"5d8b74d1dcd8a\":\"Absent\"},{\"5d8b74d170326\":\"Present\"},{\"5d8b74d1bb6b5\":\"Absent\"}]"}
+
+Sat Oct 12 2019 12.38 AM >> APP - teacher - getstudentattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","date":"2019-10-12","attendanceType":"All"}
+
+Sat Oct 12 2019 12.38 AM >> APP - teacher - setownattendance >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","attendanceData":"Present","date":"2019-10-12","time":"06:08:42"}
+
+Sat Oct 12 2019 12.39 AM >> APP - teacher - getTimeTableTeacher >> {"school_id":"TUFOT0ozMUtVTUFS","branch_id":"TUFOT0ozMktVTUFS","board_id":"TUFOT0oxS1VNQVI=","teacher_id":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.39 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.41 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.41 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.42 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.42 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.42 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.42 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.42 AM >> APP - teacher - gethomeworklist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS","title":""}
+
+Sat Oct 12 2019 12.43 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.43 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.43 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 12.43 AM >> APP - teacher - sethomework >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS","title":"oct 12 test homework ","fromDate":"2019-10-12","toDate":"2019-10-12","content":"Mouth sores are common ailments that affect many people at some point in their lives.\n\nThese sores can appear on any of the soft tissues of your mouth, including your lips, cheeks, gums, tongue, and floor and roof of your mouth. You can even develop mouth sores on your esophagus, the tube leading to your stomach.\n\nMouth sores, which include canker sores, are usually a minor irritation and last only a week or two. In some cases, however, they can indicate\u00a0mouth cancer\u00a0or an infection from a virus, such as herpes simplex.\n\n"}
+
+Sat Oct 12 2019 02.49 AM >> APP - user - getcalenderdata >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","startDate":"2019-05-01","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 02.49 AM >> APP - user - getleavestypelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 02.50 AM >> APP - user - getleavestypelist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 02.50 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 02.50 AM >> APP - user - updateNotificationStatus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI=","notificationId":"TUFOT0o3S1VNQVI="}
+
+Sat Oct 12 2019 02.50 AM >> APP - user - getnotificationlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 03.15 AM >> APP - teacher - getclasslist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 03.15 AM >> APP - teacher - getsectionlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 03.15 AM >> APP - teacher - getsubjectlist >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","sectionId":"TUFOT0oxS1VNQVI="}
+
+Sat Oct 12 2019 03.15 AM >> APP - teacher - getsyllabus >> {"branchCode":"test01","userType":"Teacher","userId":"TUFOT0oxS1VNQVI=","boardId":"TUFOT0oxS1VNQVI=","classId":"TUFOT0oxS1VNQVI=","subjectId":"TUFOT0ozNUtVTUFS"}
+
+Sat Oct 12 2019 03.26 AM >> APP - user - checkbranchcode >> {"branchCode":"Anishmali United academy {H:S} "}
+
+Sat Oct 12 2019 03.26 AM >> APP - user - checkbranchcode >> {"branchCode":"Anishmali United academy {H:S} "}
+
+Sat Oct 12 2019 07.32 AM >> APP - user - checkbranchcode >> {"branchCode":"govid hige school multan"}
+
+Sat Oct 12 2019 07.33 AM >> APP - user - checkbranchcode >> {"branchCode":"govid hige school multansst"}
+
+Sat Oct 12 2019 10.23 AM >> APP - user - getdashboarddata >> {"userType":"Parent"}
+
+Sat Oct 12 2019 12.17 PM >> APP - user - checkbranchcode >> {"branchCode":"shadab"}
+
+Sat Oct 12 2019 12.17 PM >> APP - user - checkbranchcode >> {"branchCode":"shadab"}
+
+Sat Oct 12 2019 12.18 PM >> APP - user - checkbranchcode >> {"branchCode":"shadab school  "}
+
+Sat Oct 12 2019 12.19 PM >> APP - user - checkbranchcode >> {"branchCode":"shadab Coeducation"}
+
+Sat Oct 12 2019 02.24 PM >> APP - teacher - sethomework >> []
+
+Sat Oct 12 2019 04.12 PM >> APP - user - checkbranchcode >> {"branchCode":"I am a student "}
+
+Sat Oct 12 2019 04.12 PM >> APP - user - checkbranchcode >> {"branchCode":"I am a student "}
+
+Sat Oct 12 2019 04.12 PM >> APP - user - checkbranchcode >> {"branchCode":"I am a student "}
+
+Sat Oct 12 2019 04.12 PM >> APP - user - checkbranchcode >> {"branchCode":"I am a student "}
+
+Sat Oct 12 2019 04.13 PM >> APP - user - checkbranchcode >> {"branchCode":"Who are you "}
+
+Sat Oct 12 2019 08.56 PM >> APP - user - checkbranchcode >> {"branchCode":"ECD"}
+
+Sat Oct 12 2019 08.56 PM >> APP - user - checkbranchcode >> {"branchCode":"ECD"}
+
+Sat Oct 12 2019 08.56 PM >> APP - user - checkbranchcode >> {"branchCode":"ECD chibvuti primary school"}
+
+Sat Oct 12 2019 08.57 PM >> APP - user - checkbranchcode >> {"branchCode":"mr muza"}
+
